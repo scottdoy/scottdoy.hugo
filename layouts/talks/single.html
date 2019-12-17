@@ -1,0 +1,42 @@
+{{ template "partials/header.html" . }}
+<body lang="en" itemscope itemtype="http://schema.org/Article">
+
+  <div id="topbar">
+    <div class="wrapper">
+      <header>
+        {{ template "partials/sidebar.html" . }}
+
+        {{ $baseurl := .Site.BaseURL }}
+      </header>
+    </div>
+  </div>
+
+  <div class="wrapper">
+    <div class="units-row">	
+      <div class="unit-20">&nbsp;</div>
+      <div class="unit-60"><h2><a href="">{{ .Title | safeHTML }}</a></h2></div>
+    </div>
+    <div class="units-row">		
+      <div class="unit-20 dateblock">
+        {{ if .Params.host }}<p class="small">{{ .Params.host }}</p>{{ end }}
+        {{ if .Date }}<p class="small">{{ .Date.Format "Jan 02, 2019" }}</p>{{ end }}
+        {{ if .Params.slides }}<p><a href="{{.Params.slides}}" class="badge badge-red"><i class="fas fa-chalkboard"></i>&nbsp;Slides</a></p>{{ end }}
+
+        {{ partial "social.html" . }}
+        
+      </div>
+      <div class="unit-60">
+        {{ .Content }}
+        <hr>
+        {{ if .PrevInSection }}
+        <a href="{{.PrevInSection.Permalink}}"> &laquo;&nbsp;{{.PrevInSection.Title}}</a> | {{ end }}<a href="{{ $baseurl }}/talks"><em>Talks List</em></a>{{ if .NextInSection }} | <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&raquo; </a>
+        {{ end }}
+      </div>      
+    </div>
+  </div>
+
+  <hr class="separator">
+  
+  {{ partial "whatisthis.html" . }}
+  
+  {{ partial "footer.html" . }}

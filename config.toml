@@ -1,0 +1,45 @@
+MetaDataFormat = "yaml"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+buildFuture = true
+pygmentsuseclasses = true
+baseurl = ""
+title = "scottdoy.com"
+CanonifyUrls = true
+rssLimit = 20.0
+disableKinds = "taxonomyTerm"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[menu]
+
+  [[menu.main]]
+  name = "Publications"
+  url = "/publications"
+  weight = 2.0
+
+  [[menu.main]]
+  name = "Talks"
+  url = "/talks"
+  weight = 3.0
+
+  [[menu.main]]
+  name = "Resources"
+  url = "/resources"
+  weight = 4.0
+
+  [[menu.main]]
+  name = "Teaching"
+  url = "/teaching"
+  weight = 5.0
+
+  [[menu.main]]
+  name = "Blog"
+  url = "/blog"
+  weight = 6.0
+
+[permalinks]
+blog = "/blog/archives/:year/:month/:day/:slug"

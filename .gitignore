@@ -1,0 +1,6 @@
+static/css/stylesheet-min.css
+static/css/stylesheet.css
+static/css/syntax-min.css
+
+# Disable MS Office files by default
+*.docx
