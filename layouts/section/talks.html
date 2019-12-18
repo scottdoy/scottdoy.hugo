@@ -24,9 +24,20 @@
           <div class="unit-90">
             <ul class="fa-ul">
               {{ range .Pages }}
-              <li><i class="fa-li fa fa-mortar-board fa-fw" style="font-size:80%;padding-top:1px;"></i><a href="{{ .Permalink }}"> 
-                  <a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>
-                  <p>{{ .Summary }}</p>
+              <li>
+                <i class="fa-li fa fa-mortar-board fa-fw" style="font-size:80%;padding-top:1px;"></i>
+                <a href="{{ .Permalink }}">
+                  <span class="caps">{{ .Title }}</span>
+                </a>
+                <p>
+                  {{ .Summary }}
+                <br/>
+                  {{ if .Params.slides }}
+                  <a href="{{.Params.slides}}" class="badge badge-red">
+                    <i class="fas fa-chalkboard"></i>&nbsp;Slides
+                  </a>
+                  {{ end }}
+                </p>
               </li>
               {{ end }}
             </ul>
