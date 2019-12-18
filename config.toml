@@ -5,11 +5,10 @@ publishdir = "public"
 builddrafts = false
 buildFuture = true
 pygmentsuseclasses = true
-baseurl = ""
+baseurl = "scottdoy.com"
 title = "scottdoy.com"
 CanonifyUrls = true
 rssLimit = 20.0
-disableKinds = "taxonomyTerm"
 
 [taxonomy]
 category = "categories"
