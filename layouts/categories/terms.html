@@ -18,7 +18,7 @@
       <p class="capitalize">
         {{ $data := .Data }}
         {{ range $key,$value := .Data.Index.ByCount }} 
-        &middot; <a href="categories/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> ({{ $value.Count }}) 
+        &middot; <a href="/categories/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> ({{ $value.Count }}) 
         {{ end }}
       </p>
 

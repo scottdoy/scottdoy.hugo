@@ -19,7 +19,7 @@
 
 
     {{ range .Params.categories }}
-    &middot; <a class="small" href="{{ $baseurl }}categories/{{ . | urlize }}">{{ . }}</a>
+    &middot; <a class="small" href="/categories/{{ . | urlize }}">{{ . }}</a>
     {{ end }}
 
     
