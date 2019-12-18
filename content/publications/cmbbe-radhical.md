@@ -4,7 +4,7 @@ author: Andrew Janowczyk and Scott Doyle and Hannah Gilmore and Anant Madabhushi
 doi: 10.1080/21681163.2016.1141063
 status: Published # [Published]
 type: journal # [journal, conference]
-citation: "&ldquo;A resolution adaptive deep hierarchical (RADHicaL) learning scheme applied to nuclear segmentation of digital pathology images,&rdquo; <em>Computer Methods in Biomechanics and Biomedical Engineering: Imaging &amp; Visualization</em> (2018) <b>6</b>(3):270-276."
+citation: "&ldquo;A resolution adaptive deep hierarchical (RADHicaL) learning scheme applied to nuclear segmentation of digital pathology images,&rdquo; <em>Computer Methods in Biomechanics and Biomedical Engineering: Imaging &amp; Visualization</em> (2016) <b>6</b>(3):270-276."
 tag: deeplearning
 subjects: nuclei segmentation deep learning
 comments: no
