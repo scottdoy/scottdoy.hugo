@@ -3,7 +3,7 @@
 all: deploy
 
 server: compress css
-	hugo server -ws .
+	hugo server -ws . --buildDrafts 
 
 deploy: compress site
 	echo "The site has been rebuilt."

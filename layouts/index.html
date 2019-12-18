@@ -35,7 +35,7 @@
           {{ range first 5 ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
           <div class="units-row-end">
             <div class="unit-33 dateblock">
-              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+              <h3>{{ if .Draft }}<span class="badge badge-red">DRAFT</span><br/>{{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></h3>
               <h4>{{ .Date.Format "2 January 2006" }}</h4>
             </div>
             <div class="unit-66">
