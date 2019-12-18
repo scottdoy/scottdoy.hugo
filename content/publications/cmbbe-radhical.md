@@ -8,7 +8,7 @@ citation: "&ldquo;A resolution adaptive deep hierarchical (RADHicaL) learning sc
 tag: deeplearning
 subjects: nuclei segmentation deep learning
 comments: no
-date: 2016-04-28
+date: 2018-04-28
 publishdate: 2018-04-28
 ---
 
