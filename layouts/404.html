@@ -28,32 +28,11 @@
               &nbsp;
             </div>
             <div class="unit-66">
-	      <p></p>
-	    </div>
+              <h4>404 Error</h4>
+	            <h2>Sorry, that page does not exist.</h2>
+	          </div>
           </div>
-          {{ range first 5 ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
-          <div class="units-row-end">
-            <div class="unit-33 dateblock">
-              <h3>{{ if .Draft }}<span class="badge badge-red">DRAFT</span><br/>{{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-              <h4>{{ .Date.Format "2 January 2006" }}</h4>
-            </div>
-            <div class="unit-66">
-              {{ if .Truncated }}
-              {{ .Summary }}
-              <p class="text-right"><a href="{{ .RelPermalink }}">Read More…</a></p>
-              {{ else }}
-              {{ .Content }}
-              {{ end }}	
-            </div>
-          </div>
-
-          {{ end }}
-
           <hr>
-
-          <div class="units-row-end">
-            <div class="unit-33 dateblock">&nbsp;</div>
-          </div>	
         </div>
 
         <div class="unit-33">
