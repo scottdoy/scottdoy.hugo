@@ -11,6 +11,9 @@ CanonifyUrls = true
 rssLimit = 20.0
 disableKinds = "taxonomyTerm"
 
+[taxonomy]
+category = "categories"
+
 [markup.goldmark.renderer]
 unsafe= true
 
