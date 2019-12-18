@@ -8,8 +8,8 @@ citation: "&ldquo;A resolution adaptive deep hierarchical (RADHicaL) learning sc
 tag: deeplearning
 subjects: nuclei segmentation deep learning
 comments: no
-date: 2018-04-28
-publishdate: 2018-04-28
+date: 2016-04-28
+publishdate: 2016-04-28
 ---
 
 Deep learning (DL) has recently been successfully applied to a number of image
