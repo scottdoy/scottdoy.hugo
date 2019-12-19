@@ -1,0 +1,3194 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "DOIandURL": "both",
+      "automaticTags": true,
+      "asciiBibLaTeX": false,
+      "ascii": "",
+      "asciiBibTeX": true,
+      "autoExport": "immediate",
+      "quickCopyMode": "latex",
+      "citeCommand": "cite",
+      "quickCopyPandocBrackets": false,
+      "citekeyFormat": "[zotero:clean]",
+      "citekeyFold": true,
+      "keyConflictPolicy": "keep",
+      "auxImport": false,
+      "keyScope": "library",
+      "exportBibTeXStrings": "off",
+      "importBibTeXStrings": true,
+      "bibtexParticleNoOp": false,
+      "skipFields": "",
+      "bibtexURL": "off",
+      "warnBulkModify": 10,
+      "autoExportTooLong": 10,
+      "postscript": "",
+      "strings": "",
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExportIdleWait": 10,
+      "cacheFlushInterval": 5,
+      "csquotes": "",
+      "rawLaTag": "#LaTeX",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc",
+      "jabrefFormat": 0,
+      "qualityReport": false,
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "suppressTitleCase": false,
+      "suppressBraceProtection": false,
+      "suppressSentenceCase": false,
+      "suppressNoCase": false,
+      "autoExportDelay": 1,
+      "itemObserverDelay": 100,
+      "parseParticles": true,
+      "citeprocNoteCitekey": false,
+      "scrubDatabase": false,
+      "removeStock": false,
+      "ignorePostscriptErrors": true,
+      "debugLogDir": "",
+      "testing": false,
+      "autoPin": false,
+      "kuroshiro": false,
+      "autoExportPrimeExportCacheThreshold": 0,
+      "autoExportPrimeExportCacheBatch": 4,
+      "autoExportPrimeExportCacheDelay": 100,
+      "relativeFilePaths": false,
+      "sorted": false,
+      "git": "config",
+      "mapUnicode": "conservative",
+      "mapText": "",
+      "mapMath": "",
+      "newTranslatorsAskRestart": false,
+      "platform": "win",
+      "client": "zotero"
+    },
+    "options": {
+      "exportFileData": false,
+      "exportNotes": false,
+      "keepUpdated": false,
+      "exportPath": "C:\\Users\\scott\\web\\scottdoy.hugo\\data"
+    }
+  },
+  "collections": {},
+  "items": [
+    {
+      "version": 3049,
+      "itemType": "presentation",
+      "rights": "All rights reserved",
+      "place": "San Antonio, TX, USA",
+      "date": "2017",
+      "meetingName": "The 2017 Annual Meeting of the United States and Canadian Academy of Pathology (USCAP)",
+      "title": "Cancer Gestalt: Fused Cancer and Biomarkers in Three-Dimensions: A Novel Way to Envision Tumor Biology",
+      "creators": [
+        {
+          "firstName": "Lei",
+          "lastName": "Zhang",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Jing",
+          "lastName": "He",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Poojaben",
+          "lastName": "Dhorajiya",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Minhua",
+          "lastName": "Wang",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Margaret",
+          "lastName": "Brandwein",
+          "creatorType": "presenter"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-04-03T21:22:15Z",
+      "dateModified": "2017-04-03T21:24:08Z",
+      "uri": "http://zotero.org/users/3294059/items/47GNPAA4",
+      "attachments": [],
+      "notes": [],
+      "itemID": 211,
+      "key": "47GNPAA4",
+      "citekey": "zhang_cancer_2017",
+      "citationKey": "zhang_cancer_2017",
+      "libraryID": 1,
+      "type": "Poster 1345 presented at the 2017 Annual Meeting of the United States and Canadian Academy of Pathology (USCAP)"
+    },
+    {
+      "version": 3049,
+      "itemType": "presentation",
+      "rights": "All rights reserved",
+      "place": "San Antonio, TX, USA",
+      "date": "2017",
+      "meetingName": "The 2017 Annual Meeting of the United States and Canadian Academy of Pathology (USCAP)",
+      "title": "Matlab Silhouette Analysis of Worst Pattern of Invasion in Oral Squamous Carcinoma",
+      "creators": [
+        {
+          "firstName": "Minhua",
+          "lastName": "Wang",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Lei",
+          "lastName": "Zhang",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Margaret",
+          "lastName": "Brandwein",
+          "creatorType": "presenter"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-04-03T21:18:33Z",
+      "dateModified": "2017-04-03T21:22:02Z",
+      "uri": "http://zotero.org/users/3294059/items/G456BJ6J",
+      "attachments": [],
+      "notes": [],
+      "itemID": 212,
+      "key": "G456BJ6J",
+      "citekey": "wang_matlab_2017",
+      "citationKey": "wang_matlab_2017",
+      "libraryID": 1,
+      "type": "Poster 1341 presented at the 2017 Annual Meeting of the United States and Canadian Academy of Pathology (USCAP)"
+    },
+    {
+      "version": 3049,
+      "itemType": "conferencePaper",
+      "url": "http://dx.doi.org/10.1117/12.2255800",
+      "rights": "All rights reserved",
+      "volume": "10140",
+      "pages": "1014005-1014005-8",
+      "date": "2017",
+      "DOI": "10.1117/12.2255800",
+      "accessDate": "2017-04-03T21:13:55Z",
+      "libraryCatalog": "Silverchair",
+      "abstractNote": "In this work, we investigate the effect of slice sampling on 3D models of tissue architecture using serial histopathology.\nWe present a method for using a single fully-sectioned tissue block as pilot data, whereby we build a fully-realized 3D\nmodel and then determine the optimal set of slices needed to reconstruct the salient features of the model objects under\nbiological investigation. In our work, we are interested in the 3D reconstruction of microvessel architecture in the trigone\nregion between the vagina and the bladder. This region serves as a potential avenue for drug delivery to treat bladder\ninfection. We collect and co-register 23 serial sections of CD31-stained tissue images (6 μm thick sections), from which\nfour microvessels are selected for analysis. To build each model, we perform semi-automatic segmentation of the\nmicrovessels. Subsampled meshes are then created by removing slices from the stack, interpolating the missing data, and\nre-constructing the mesh. We calculate the Hausdorff distance between the full and subsampled meshes to determine the\noptimal sampling rate for the modeled structures. In our application, we found that a sampling rate of 50% (corresponding\nto just 12 slices) was sufficient to recreate the structure of the microvessels without significant deviation from the fullyrendered\nmesh. This pipeline effectively minimizes the number of histopathology slides required for 3D model\nreconstruction, and can be utilized to either (1) reduce the overall costs of a project, or (2) enable additional analysis on\nthe intermediate slides.",
+      "title": "Data-driven sampling method for building 3D anatomical models from serial histology",
+      "creators": [
+        {
+          "firstName": "Snehal Ulhas",
+          "lastName": "Salunke",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tova",
+          "lastName": "Ablove",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Theresa",
+          "lastName": "Danforth",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-04-03T21:13:55Z",
+      "dateModified": "2017-04-03T21:13:55Z",
+      "uri": "http://zotero.org/users/3294059/items/MTPSVKC7",
+      "attachments": [],
+      "notes": [],
+      "itemID": 213,
+      "key": "MTPSVKC7",
+      "citekey": "salunke_data-driven_2017",
+      "citationKey": "salunke_data-driven_2017",
+      "libraryID": 1
+    },
+    {
+      "version": 3063,
+      "itemType": "conferencePaper",
+      "url": "\\textlessGo to ISI\\textgreater://WOS:000241556700062",
+      "rights": "All rights reserved",
+      "volume": "4191",
+      "place": "Copenhagen, DK",
+      "pages": "504–511",
+      "date": "2006-01-01",
+      "DOI": "10.1007/11866763_62",
+      "abstractNote": "Current diagnosis of prostatic adenocarcinoma is done by manual analysis of biopsy tissue samples for tumor presence. However, the recent advent of whole slide digital scanners has made histopathological tissue specimens amenable to computer-aided diagnosis (CAD). In this paper, we present a CAD system to assist pathologists by automatically detecting prostate cancer from digitized images of prostate histological specimens. Automated diagnosis on very large high resolution images is done via a multi-resolution scheme similar to the manner in which a pathologist isolates regions of interest on a glass slide. Nearly 600 image texture features are extracted and used to perform pixel-wise Bayesian classification at each image scale to obtain corresponding likelihood scenes. Starting at the lowest scale, we apply the AdaBoost algorithm to combine the most discriminating features, and we analyze only pixels with a high combined probability of malignancy at subsequent higher scales. The system was evaluated on 22 studies by comparing the CAD result to a pathologist's manual segmentation of cancer (which served as ground truth) and found to have an overall accuracy of 88%. Our results show that (1) CAD detection sensitivity remains consistently high across image scales while CAD specificity increases with higher scales, (2) the method is robust to choice of training samples, and (3) the multi-scale cascaded approach results in significant savings in computational time.",
+      "title": "A boosting cascade for automated detection of prostate cancer from digitized histology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszeweski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathology"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF",
+        "MFFEZV5N"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:09Z",
+      "dateModified": "2019-12-18T22:08:52Z",
+      "uri": "http://zotero.org/users/3294059/items/4W9F5WXI",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Doyle et al_2006_A boosting cascade for automated detection of prostate cancer from digitized.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-04-14T17:16:53Z",
+          "dateModified": "2017-04-14T17:16:56Z",
+          "uri": "http://zotero.org/users/3294059/items/P5SFJ55F",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\P5SFJ55F\\Doyle et al_2006_A boosting cascade for automated detection of prostate cancer from digitized.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Bff19 Times Cited:15 Cited References Count:11 Lecture Notes in Computer Science</p>"
+      ],
+      "itemID": 230,
+      "key": "4W9F5WXI",
+      "citekey": "doyle_boosting_2006",
+      "citationKey": "doyle_boosting_2006",
+      "libraryID": 1,
+      "publicationTitle": "Medical Image Computing and Computer-Assisted Intervention (MICCAI)"
+    },
+    {
+      "version": 1249,
+      "itemType": "conferencePaper",
+      "rights": "All rights reserved",
+      "place": "Piscataway, NJ, USA",
+      "pages": "1–8",
+      "date": "2007",
+      "abstractNote": "Abstract—In this paper we present a method of automatically detecting and segmenting glands in digitized images of prostate histology and to use features derived from gland morphology to distinguish between intermediate Gleason grades. Gleason grading is a method of describing prostate cancer malignancy on a numerical scale from grade 1 (early stage cancer) through grade 5 (highly infiltrative cancer). Studies have shown that gland morphology plays a significant role in discriminating Gleason grades. We present a method of automated detection and segmentation of prostate gland regions. A Bayesian classifier is used to detect candidate gland regions by utilizing low-level image features to find the lumen, epithelial cell cytoplasm, and epithelial nuclei of the tissue. False positive regions identified as glands are eliminated via use of domain-specific knowledge constraints. Following candidate region detection via low-level and empirical domain information, the lumen area is used to initialize a level-set curve, which is evolved to lie at the interior boundary of the nuclei surrounding the gland structure. Features are calculated from the boundaries that characterize the morphology of the lumen and the gland regions, including area overlap ratio, distance ratio, standard deviation and variance of distance, perimeter ratio, compactness, smoothness, and area. The feature space is reduced using a manifold learning scheme (Graph Embedding) that is used to embed objects that are adjacent to each other in the high dimensional feature space into a lower dimensional embedding space. Objects embedded in this low dimensional embedding space are then classified via a support vector machine (SVM) classifier as belonging to Gleason grade 3, grade 4 cancer, or benign epithelium. We evaluate the efficacy of the automated segmentation algorithm by comparing the classification accuracy obtained using the automated segmentation scheme to the accuracy obtained via a user assisted segmentation scheme. Using the automated scheme, the system achieves accuracies of 86.35% when distinguishing Gleason grade 3 from benign epithelium, 92.90% distinguishing grade 4 from benign epithelium, and 95.19% distinguishing between Gleason grades 3 and 4. The manual scheme returns accuracies of 95.14%, 95.35%, and 80.76% for the respective classification tasks, indicating that the automated segmentation algorithm and the manual scheme are comparable in terms of achieving the overall objective of grade classificatio",
+      "title": "Gland segmentation and computerized gleason grading of prostate histology by integrating low- , high-level and domain specific information.",
+      "creators": [
+        {
+          "firstName": "Shivang",
+          "lastName": "Naik",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "8GJNYQX5",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:55:31Z",
+      "dateModified": "2017-02-19T16:29:41Z",
+      "uri": "http://zotero.org/users/3294059/items/XN27NG65",
+      "attachments": [],
+      "notes": [],
+      "itemID": 231,
+      "key": "XN27NG65",
+      "citekey": "naik_gland_2007",
+      "citationKey": "naik_gland_2007",
+      "libraryID": 1,
+      "publicationTitle": "Proceedings of 2nd Workshop on Microsopic Image Analysis with Applications in Biology"
+    },
+    {
+      "version": 1160,
+      "itemType": "conferencePaper",
+      "rights": "All rights reserved",
+      "place": "Brisbane, AU",
+      "pages": "53-62",
+      "date": "2007",
+      "title": "Using manifold learning for content-based image retrieval of prostate histopathology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mark",
+          "lastName": "Hwang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shivang",
+          "lastName": "Naik",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszeweski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:32:45Z",
+      "dateModified": "2017-02-19T16:26:10Z",
+      "uri": "http://zotero.org/users/3294059/items/PENEF2VX",
+      "attachments": [],
+      "notes": [],
+      "itemID": 232,
+      "key": "PENEF2VX",
+      "citekey": "doyle_using_2007",
+      "citationKey": "doyle_using_2007",
+      "libraryID": 1,
+      "publicationTitle": "MICCAI 2007 Workshop on Content-based Image Retrieval for Biomedical Image Archives: Achievements, Problems, and Prospects"
+    },
+    {
+      "version": 3059,
+      "itemType": "conferencePaper",
+      "url": "\\textlessGo to ISI\\textgreater://WOS:000258259800072 http://ieeexplore.ieee.org/ielx5/4534844/4540908/04540988.pdf?tp=&arnumber=4540988&isnumber=4540908",
+      "rights": "All rights reserved",
+      "place": "Paris, FR",
+      "pages": "284–287",
+      "date": "2008-01-01",
+      "DOI": "Doi 10.1109/Isbi.2008.4540988",
+      "language": "English",
+      "abstractNote": "Automated detection and segmentation of nuclear and glandular structures is critical for classification and grading of prostate and breast cancer histopathology. In this paper, we present a methodology for automated detection and segmentation of structures of interest in digitized histopathology images. The scheme integrates image information from across three different scales: (1) low-level information based on pixel values, (2) high-level information based on relationships between pixels for object detection, and (3) domain-specific information based on relationships between histological structures. Low-level information is utilized by a Bayesian classifier to generate a likelihood that each pixel belongs to an object of interest. High-level information is extracted in two ways: (i) by a level-set algorithm, where a contour is evolved in the likelihood scenes generated by the Bayesian classifier to identify object boundaries, and (ii) by a template matching algorithm, where shape models are used to identify glands and nuclei from the low-level likelihood scenes. Structural constraints are imposed via domain-specific knowledge in order to verify whether the detected objects do indeed belong to structures of interest. In this paper we demonstrate the utility of our glandular and nuclear segmentation algorithm in accurate extraction of various morphological and nuclear features for automated grading of (a) prostate cancer, (b) breast cancer, and (c) distinguishing between cancerous and benign breast histology specimens. The efficacy of our segmentation algorithm is evaluated by comparing breast and prostate cancer grading and benign vs. cancer discrimination accuracies with corresponding accuracies obtained via manual detection and segmentation of glands and nuclei.",
+      "title": "Automated gland and nuclei segmentation for grading of prostate and breast cancer histopathology",
+      "creators": [
+        {
+          "firstName": "Shivang",
+          "lastName": "Naik",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shannon",
+          "lastName": "Agner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "breast cancer"
+        },
+        {
+          "tag": "detection"
+        },
+        {
+          "tag": "grading"
+        },
+        {
+          "tag": "image"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:55:28Z",
+      "dateModified": "2019-12-18T20:48:09Z",
+      "uri": "http://zotero.org/users/3294059/items/XUA62A95",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:55:28Z",
+          "dateModified": "2016-08-26T17:55:28Z",
+          "uri": "http://zotero.org/users/3294059/items/ZQ48WN4H",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\ZQ48WN4H\\Naik-2008-Automated gland and.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Bib70 Times Cited:34 Cited References Count:11 IEEE International Symposium on Biomedical Imaging</p>"
+      ],
+      "itemID": 233,
+      "key": "XUA62A95",
+      "citekey": "naik_automated_2008",
+      "citationKey": "naik_automated_2008",
+      "libraryID": 1,
+      "publicationTitle": "2008 5th IEEE International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 3059,
+      "itemType": "conferencePaper",
+      "rights": "All rights reserved",
+      "place": "Paris, FR",
+      "pages": "496–499",
+      "date": "2008-01-01",
+      "abstractNote": "In this paper we present a novel image analysis methodology for automatically distinguishing low and high grades of breast cancer from digitized histopathology. A set of over 3,400 image features, including textural and nuclear architecture based features, are extracted from a database of 48 breast biopsy tissue studies (30 cancerous and 18 benign images). Spectral clustering is used to reduce the dimensionality of the feature set. A support vector machine (SVM) classifier is used (1) to distinguish between cancerous and non-cancerous images, and (2) to distinguish between images containing low and high grades of cancer. Classification is repeated using different subsets of features to compare their performance. The system achieves a 95.8% accuracy in distinguishing cancer from non-cancer using texture-based characteristics (Gabor filter features), and 93.3% accuracy in distinguishing high from low grades of cancer using architectural features. In addition, we investigate the underlying manifold structure on which the different grades of breast cancer lie as revealed through spectral clustering. The manifold shows a smooth spatial transition from low to high grade breast cancer.",
+      "title": "Automated grading of breast cancer histopathology using spectral clustering with textural and architectural image features",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shannon",
+          "lastName": "Agner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "breast cancer"
+        }
+      ],
+      "collections": [
+        "8GJNYQX5",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:09Z",
+      "dateModified": "2019-12-18T20:48:14Z",
+      "uri": "http://zotero.org/users/3294059/items/3P74FRV3",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Doyle et al. - 2008 - Automated grading of breast cancer histopathology .pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:52:06Z",
+          "dateModified": "2016-11-30T20:08:50Z",
+          "uri": "http://zotero.org/users/3294059/items/7D4Z3428",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\7D4Z3428\\Doyle et al. - 2008 - Automated grading of breast cancer histopathology .pdf"
+        }
+      ],
+      "notes": [
+        "<p>Bib70 Times Cited:29 Cited References Count:13 IEEE International Symposium on Biomedical Imaging</p>"
+      ],
+      "itemID": 234,
+      "key": "3P74FRV3",
+      "citekey": "doyle_automated_2008",
+      "citationKey": "doyle_automated_2008",
+      "libraryID": 1,
+      "publicationTitle": "2008 IEEE 5th International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 3059,
+      "itemType": "conferencePaper",
+      "url": "http://ieeexplore.ieee.org/ielx5/5174537/5192959/05192987.pdf?tp=&arnumber=5192987&isnumber=5192959",
+      "rights": "All rights reserved",
+      "place": "Boston, MA, USA",
+      "pages": "77–80",
+      "date": "2009-01-01",
+      "DOI": "Doi 10.1109/Isbi.2009.5192987",
+      "language": "English",
+      "abstractNote": "The demand for personalized health care requires a wide range of diagnostic tools for determining patient prognosis and theragnosis (response to treatment). These tools present us with data that is both multi-modal (imaging and non-imaging) and multi-scale (proteomics, histology). By utilizing the information in these sources concurrently, we expect significant improvement in predicting patient prognosis and theragnosis. However, a prerequisite to realizing this improvement is the ability to effectively and quantitatively combine information from disparate sources. In this paper, we present a general fusion framework (GFF) aimed towards a combined knowledge representation predicting disease recurrence. To the best of our knowledge, GFF represents the first formal attempt to fuse biomedical image and non-image information directly at the data level as opposed to the decision level, thus preserving more subtle contributions in the original data. GFF represents the different data streams in separate embedding spaces via the application of dimensionality reduction (DR). Data fusion is then implemented by combining the individual reduced embedding spaces. A proof of concept example is considered for evaluating the GFF, whereby protein expression measurements from mass spectrometry are combined with histological image signatures to predict prostate cancer (CaP) recurrence in 6 CaP patients, following therapy. Preliminary results suggest that GFF offers an intelligent way to fuse image and non-image data structures for making prognostic and theragnostic predictions.",
+      "title": "A knowledge representation framework for integration, classification of multi-scale imaging and non-imaging data: preliminary results in predicting prostate cancer recurrence by fusing mass spectrometry and histology",
+      "creators": [
+        {
+          "firstName": "George",
+          "lastName": "Lee",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Monaco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Steve",
+          "lastName": "Masters",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "data fusion"
+        },
+        {
+          "tag": "expression"
+        },
+        {
+          "tag": "heterogeneous data"
+        },
+        {
+          "tag": "mass spectrometry"
+        },
+        {
+          "tag": "reduction"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:53:58Z",
+      "dateModified": "2019-12-18T20:47:56Z",
+      "uri": "http://zotero.org/users/3294059/items/2E3SCD7J",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:53:58Z",
+          "dateModified": "2016-08-26T17:53:58Z",
+          "uri": "http://zotero.org/users/3294059/items/FDGAS3FD",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\FDGAS3FD\\Lee-2009-A Knowledge Represen.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Blo57 Times Cited:3 Cited References Count:9</p>"
+      ],
+      "itemID": 235,
+      "key": "2E3SCD7J",
+      "citekey": "lee_knowledge_2009",
+      "citationKey": "lee_knowledge_2009",
+      "libraryID": 1,
+      "publicationTitle": "2009 IEEE International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 1409,
+      "itemType": "conferencePaper",
+      "url": "\\textlessGo to ISI\\textgreater://WOS:000287997400360 http://ieeexplore.ieee.org/ielx5/5481762/5490050/05490264.pdf?tp=&arnumber=5490264&isnumber=5490050",
+      "rights": "All rights reserved",
+      "place": "Rotterdam, NL",
+      "pages": "1415–1418",
+      "date": "2010",
+      "DOI": "Doi 10.1109/Isbi.2010.5490264",
+      "language": "English",
+      "abstractNote": "Computer-aided prognosis (CAP) is a new and exciting complement to the field of computer-aided diagnosis (CAD) and involves developing computerized image analysis and multi-modal data fusion algorithms for helping physicians predict disease outcome and patient survival. At the Laboratory for Computational Imaging and Bioinformatics (LCIB) 1 at Rutgers University we have been developing computerized algorithms for high dimensional data and image analysis for predicting disease outcome from multiple modalities includng MRI, digital pathology, and protein expression. Additionally, we have been developing novel data fusion algorithms based on non-linear dimensionality reduction methods (such as Graph Embedding) to quantitatively integrate prognostic information from multiple data sources and modalities. In this paper, we briefly describe 5 representative and ongoing CAP projects at LCIB. These projects include (1) an Image-based Risk Score (IbRiS) algorithm for predicting outcome of ER+ breast cancer patients based on quantitative image analysis of digitized breast cancer biopsy specimens alone, (2) segmenting and determining extent of lymphocytic infiltration (identified as a possible prognostic marker for outcome in Her2+ breast cancers) from digitized histopathology, (3) segmenting and diagnosing highly agressive triple-negative breast cancers on dynamic contrast enhanced (DCE) MRI, (4) distinguishing patients with different Gleason grades of prostate cancer (grade being known to be correlated to outcome) from digitzed needle biopsy specimens, and (5) integrating protein expression measurements obtained from mass spectrometry with quantitative image features derived from digitized histopathology for distinguishing between prostate cancer patients at low and high risk of disease recurrence.",
+      "title": "Computer-Aided Prognosis: Predicting Patient and Disease Outcome Via Multi-Modal Image Analysis",
+      "creators": [
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ajay",
+          "lastName": "Basavanhally",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shannon",
+          "lastName": "Agner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Lee",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "breast cancer"
+        },
+        {
+          "tag": "mri"
+        },
+        {
+          "tag": "Pathology"
+        },
+        {
+          "tag": "data fusion"
+        },
+        {
+          "tag": "computer-aided prognosis (cap)"
+        },
+        {
+          "tag": "multi-modal"
+        },
+        {
+          "tag": "personalized medicine"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:54:48Z",
+      "dateModified": "2017-02-19T16:20:51Z",
+      "uri": "http://zotero.org/users/3294059/items/GESIEU7I",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:54:48Z",
+          "dateModified": "2016-08-26T17:54:48Z",
+          "uri": "http://zotero.org/users/3294059/items/M485JWV7",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\M485JWV7\\Madabhushi-2010-Computer-Aided Progn.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Bts82 Times Cited:2 Cited References Count:9 IEEE International Symposium on Biomedical Imaging</p>"
+      ],
+      "itemID": 236,
+      "key": "GESIEU7I",
+      "citekey": "madabhushi_computer-aided_2010",
+      "citationKey": "madabhushi_computer-aided_2010",
+      "libraryID": 1,
+      "publicationTitle": "2010 IEEE 7th International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 1268,
+      "itemType": "conferencePaper",
+      "url": "\\textlessGo to ISI\\textgreater://WOS:000287997400334 http://ieeexplore.ieee.org/ielx5/5481762/5490050/05490238.pdf?tp=&arnumber=5490238&isnumber=5490050",
+      "rights": "All rights reserved",
+      "place": "Rotterdam, NL",
+      "pages": "1313–1316",
+      "date": "2010",
+      "DOI": "Doi 10.1109/Isbi.2010.5490238",
+      "language": "English",
+      "abstractNote": "A single digital pathology image can occupy over 10 gigabytes of hard disk space, rendering it difficult to store, analyze, and transmit. Though image compression provides a means of reducing the storage requirement, its effects on CAD (and pathologist) performance are not yet clear. In this work we assess the impact of compression on the ability of a CAD system to detect carcinoma of the prostate (CaP) in histological sections. The CAD algorithm proceeds as follows: Glands in the tissue are segmented using a region-growing algorithm. The size of each gland is then extracted and modeled using a mixture of Gamma distributions. A Markov prior (specifically, a probabilistic pairwise Markov model) is employed to encourage nearby glands to share the same class (i.e. cancerous or non-cancerous). Finally, cancerous glands are aggregated into continuous regions using a distance-hull algorithm. We evaluate CAD performance over 12 images compressed at 14 different compression ratios using JPEG2000. Algorithm performance (measured using the under the receiver operating characteristic curves) remains relatively constant for compression ratios up to 1:256. After this point performance degrades precipitously. We also have an expert pathologist view the compressed images and assign a confidence measure as to their diagnostic fidelity.",
+      "title": "Evaluation of Effects of JPEG2000 Compression on a Computer-Aided Detection System for Prostate Cancer on Digitized Histopathology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Monaco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stefan",
+          "lastName": "Lindholm",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Patric",
+          "lastName": "Ljung",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lance",
+          "lastName": "Ladic",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:09Z",
+      "dateModified": "2017-02-19T16:20:35Z",
+      "uri": "http://zotero.org/users/3294059/items/QMCXMDUC",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:52:09Z",
+          "dateModified": "2016-08-26T17:52:09Z",
+          "uri": "http://zotero.org/users/3294059/items/WZKJ5I59",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\WZKJ5I59\\Doyle-2010-Evaluation of Effect.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Bts82 Times Cited:2 Cited References Count:5 IEEE International Symposium on Biomedical Imaging</p>"
+      ],
+      "itemID": 237,
+      "key": "QMCXMDUC",
+      "citekey": "doyle_evaluation_2010",
+      "citationKey": "doyle_evaluation_2010",
+      "libraryID": 1,
+      "publicationTitle": "2010 IEEE 7th International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 3056,
+      "itemType": "conferencePaper",
+      "url": "\\textlessGo to ISI\\textgreater://WOS:000289494000027",
+      "rights": "All rights reserved",
+      "volume": "6282",
+      "place": "Nijmegen, Netherlands",
+      "pages": "313–324",
+      "date": "2010",
+      "conferenceName": "Pattern Recognition in Bioinformatics (PRIB)",
+      "language": "English",
+      "abstractNote": "Supervised classifiers require manually labeled training samples to classify unlabeled objects. Active Learning (AL) can be used to selectively label only \"ambiguous\" samples, ensuring that each labeled sample is maximally informative. This is invaluable in applications where manual labeling is expensive, as in medical images where annotation of specific pathologies or anatomical structures is usually only possible by an expert physician. Existing AL methods use a single definition of ambiguity, but there can be significant variation among individual methods. In this paper we present a consensus of ambiguity (CoA) approach to AL, where only samples which are consistently labeled as ambiguous across multiple AL schemes are selected for annotation. CoA-based AL uses fewer samples than Random Learning (RL) while exploiting the variance between individual AL schemes to efficiently label training sets for classifier training. We use a consensus ratio to determine the variance between AL methods, and the CoA approach is used to train classifiers for three different medical image datasets: 100 prostate histopathology images, 18 prostate DCE-MRI patient studies, and 9,000 breast histopathology regions of interest from 2 patients. We use a Probabilistic Boosting Tree (PBT) to classify each dataset as either cancer or non-cancer (prostate), or high or low grade cancer (breast). Trained is done using CoA-based AL, and is evaluated in terms of accuracy and area under the receiver operating characteristic curve (AUC). CoA training yielded between 0.01-0.05% greater performance than R,L for the same training set size; approximately 5-10 more samples were required for RL to match the performance of CoA, suggesting that CoA is a more efficient training strategy.",
+      "title": "Consensus of Ambiguity: Theory and Application of Active Learning for Biomedical Image Analysis",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Model"
+        }
+      ],
+      "collections": [
+        "6VQYNURL",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:08Z",
+      "dateModified": "2019-12-18T20:43:24Z",
+      "uri": "http://zotero.org/users/3294059/items/WXCZPTFH",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Doyle_Madabhushi_2010_Consensus of Ambiguity.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-04-14T17:17:22Z",
+          "dateModified": "2017-04-14T17:17:25Z",
+          "uri": "http://zotero.org/users/3294059/items/S6ZR59KQ",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\S6ZR59KQ\\Doyle_Madabhushi_2010_Consensus of Ambiguity.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Buj16 Times Cited:1 Cited References Count:17 Lecture Notes in Bioinformatics</p>"
+      ],
+      "itemID": 238,
+      "key": "WXCZPTFH",
+      "citekey": "doyle_consensus_2010",
+      "citationKey": "doyle_consensus_2010",
+      "libraryID": 1,
+      "publicationTitle": "Pattern Recognition in Bioinformatics (PRIB)"
+    },
+    {
+      "version": 1161,
+      "itemType": "conferencePaper",
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5490373&isnumber=5490050",
+      "rights": "All rights reserved",
+      "place": "Rotterdam, NL",
+      "pages": "229–232",
+      "date": "2010",
+      "DOI": "10.1109/ISBI.2010.5490373",
+      "abstractNote": "Selection of an appropriate classifier for computer-aided diagnosis (CAD) applications has typically been an ad hoc process. It is difficult to know a priori which classifier will yield high accuracies for a specific application, especially when well-annotated data for classifier training is scarce. In this study, we utilize an inverse power-law model of statistical learning to predict classifier performance when only limited amounts of annotated training data is available. The objectives of this study are to (a) predict classifier error in the context of different CAD problems when larger data cohorts become available, and (b) compare classifier performance and trends (both at the sample/patient level and at the pixel level) as additional data is accrued (such as in a clinical trial). In this paper we utilize a power law model to evaluate and compare various classifiers (Support Vector Machine (SVM), C4.5 decision tree, k-nearest neighbor) for four distinct CAD problems. The first two datasets deal with sample/patient-level classification for distinguishing between (1) high from low grade breast cancers and (2) high from low levels of lymphocytic infiltration in breast cancer specimens. The other two datasets are pixel-level classification problems for discriminating cancerous and non-cancerous regions on prostate (3) MRI and (4) histopathology. Our empirical results suggest that, given sufficient training data, SVMs tend to be the best classifiers. This was true for datasets (1), (2), and (3), while the C4.5 decision tree was the best classifier for dataset (4). Our results also suggest that results of classifier comparison made on small data cohorts should not be generalized as holding true when large amounts of data become available.",
+      "title": "Predicting classifier performance with a small training set: applications to computer-aided diagnosis and prognosis",
+      "creators": [
+        {
+          "firstName": "Ajay",
+          "lastName": "Basavanhally",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:51:32Z",
+      "dateModified": "2017-02-19T16:18:30Z",
+      "uri": "http://zotero.org/users/3294059/items/49UTIUQG",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:51:32Z",
+          "dateModified": "2016-11-30T20:09:54Z",
+          "uri": "http://zotero.org/users/3294059/items/NF3XF7GZ",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\NF3XF7GZ\\Basavanhally-2010-Predicting Classifie.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Bts82 Times Cited:3 Cited References Count:8 IEEE International Symposium on Biomedical Imaging</p>"
+      ],
+      "itemID": 239,
+      "key": "49UTIUQG",
+      "citekey": "basavanhally_predicting_2010",
+      "citationKey": "basavanhally_predicting_2010",
+      "libraryID": 1,
+      "publicationTitle": "2010 IEEE 7th International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 1229,
+      "itemType": "conferencePaper",
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5872779&isnumber=5872340",
+      "rights": "All rights reserved",
+      "place": "Chicago, IL, USA",
+      "pages": "1897–1900",
+      "date": "2011",
+      "DOI": "10.1109/ISBI.2011.5872779",
+      "abstractNote": "In machine learning, non-linear dimensionality reduction (NLDR) is commonly used to embed high-dimensional data into a low-dimensional space while preserving local object adjacencies. However, the majority of NLDR methods define object adjacencies using distance metrics that do not account for the quality of the features in the high-dimensional space. In this paper we present Boosted Spectral Embedding (BoSE), a variant of the traditional Spectral Embedding (SE) that utilizes a Boosted Distance Metric (BDM) to improve the low-dimensional representation of the data. Under the naive assumption that all features are equally important, SE uses the Euclidean distance metric to define object-distance relationships. However, the BDM selectively weights features via the AdaBoost algorithm such that the low-dimensional representation contains only the most discriminating features. In this work BoSE is evaluated against SE in the context of digitized histopathology images using (a) content-based image retrieval and (b) classification via Random Forest of the low-dimensional representation. Using images from a cohort of 58 prostate cancer patient studies, BoSE and SE separated benign and malignant samples with areas under the precision-recall curve (AUPRCs) of 0.95 and 0.67 and classification accuracies using a Random Forest (RF) classifer were 0.93 and 0.79, respectively. For a cohort of 55 breast cancer studies, BoSE and SE performed comparably in terms of both RF accuracy and AUPRC. In addition, a qualitative visualization of the low-dimensional data representations suggests that BoSE exhibits improved class separability over SE.",
+      "title": "Boosted Spectral Embedding (BoSE): Applications to content-based image retrieval of histopathology",
+      "creators": [
+        {
+          "firstName": "Akshay",
+          "lastName": "Sridhar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "breast cancer"
+        },
+        {
+          "tag": "boosting"
+        },
+        {
+          "tag": "bose"
+        },
+        {
+          "tag": "spectral embedding"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:57:54Z",
+      "dateModified": "2017-02-19T16:16:08Z",
+      "uri": "http://zotero.org/users/3294059/items/QH5JQM5X",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Sridhar et al_2011_Boosted Spectral Embedding (BoSE).pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-04-14T17:18:22Z",
+          "dateModified": "2017-04-14T17:18:24Z",
+          "uri": "http://zotero.org/users/3294059/items/NQXA697B",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\NQXA697B\\Sridhar et al_2011_Boosted Spectral Embedding (BoSE).pdf"
+        }
+      ],
+      "notes": [
+        "<p>Byh79 Times Cited:1 Cited References Count:10 IEEE International Symposium on Biomedical Imaging</p>"
+      ],
+      "itemID": 240,
+      "key": "QH5JQM5X",
+      "citekey": "sridhar_boosted_2011",
+      "citationKey": "sridhar_boosted_2011",
+      "libraryID": 1,
+      "publicationTitle": "2011 IEEE International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 1161,
+      "itemType": "conferencePaper",
+      "url": "http://dx.doi.org/10.1117/12.2217015",
+      "rights": "All rights reserved",
+      "volume": "9791",
+      "pages": "979112-979112-6",
+      "date": "2016",
+      "DOI": "10.1117/12.2217015",
+      "accessDate": "2017-02-19T13:57:01Z",
+      "libraryCatalog": "Silverchair",
+      "abstractNote": "Traditional histopathology quantifies disease through the study of glass slides, i.e. two-dimensional samples that are representative of the overall process. We hypothesize that 3D reconstruction can enhance our understanding of histopathologic interpretations. To test this hypothesis, we perform a pilot study of the risk model for oral cavity cancer (OCC), which stratifies patients into low-, intermediate-, and high-risk for locoregional disease-free survival. Classification is based on study of hematoxylin and eosin (H and E) stained tissues sampled from the resection specimens. In this model, the Worst Pattern of Invasion (WPOI) is assessed, representing specific architectural features at the interface between cancer and non-cancer tissue. Currently, assessment of WPOI is based on 2D sections of tissue, representing complex 3D structures of tumor growth. We believe that by reconstructing a 3D model of tumor growth and quantifying the tumor-host interface, we can obtain important diagnostic information that is difficult to assess in 2D. Therefore, we introduce a pilot study framework for visualizing tissue architecture and morphology in 3D from serial sections of histopathology. This framework can be used to enhance predictive models for diseases where severity is determined by 3D biological structure. In this work we utilize serial H and E-stained OCC resections obtained from 7 patients exhibiting WPOI-3 (low risk of recurrence) through WPOI-5 (high risk of recurrence). A supervised classifier automatically generates a map of tumor regions on each slide, which are then co-registered using an elastic deformation algorithm. A smooth 3D model of the tumor region is generated from the registered maps, which is suitable for quantitative tumor interface morphology feature extraction. We report our preliminary models created with this system and suggest further enhancements to traditional histology scoring mechanisms that take spatial architecture into consideration.",
+      "title": "Quantification of tumor morphology via 3D histology: application to oral cavity cancers",
+      "shortTitle": "Quantification of tumor morphology via 3D histology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Margaret",
+          "lastName": "Brandwein-Gensler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T13:57:01Z",
+      "dateModified": "2017-02-19T16:14:14Z",
+      "uri": "http://zotero.org/users/3294059/items/RJ4QIBV3",
+      "attachments": [],
+      "notes": [],
+      "itemID": 241,
+      "key": "RJ4QIBV3",
+      "citekey": "doyle_quantification_2016",
+      "citationKey": "doyle_quantification_2016",
+      "libraryID": 1,
+      "publicationTitle": "Proc. SPIE 9791, Medical Imaging 2016: Digital Pathology"
+    },
+    {
+      "version": 3056,
+      "itemType": "journalArticle",
+      "url": "http://www.sciencedirect.com/science/article/pii/S1532046416301800",
+      "rights": "All rights reserved",
+      "volume": "66",
+      "pages": "129-135",
+      "publicationTitle": "Journal of Biomedical Informatics",
+      "ISSN": "1532-0464",
+      "date": "2017",
+      "journalAbbreviation": "Journal of Biomedical Informatics",
+      "DOI": "10.1016/j.jbi.2016.12.006",
+      "accessDate": "2017-02-19T14:43:25Z",
+      "libraryCatalog": "ScienceDirect",
+      "abstractNote": "Interoperability across data sets is a key challenge for quantitative histopathological imaging. There is a need for an ontology that can support effective merging of pathological image data with associated clinical and demographic data. To foster organized, cross-disciplinary, information-driven collaborations in the pathological imaging field, we propose to develop an ontology to represent imaging data and methods used in pathological imaging and analysis, and call it Quantitative Histopathological Imaging Ontology – QHIO. We apply QHIO to breast cancer hot-spot detection with the goal of enhancing reliability of detection by promoting the sharing of data between image analysts.",
+      "title": "Developing the quantitative histopathology image ontology (QHIO): A case study using the hot spot detection problem",
+      "shortTitle": "Developing the Quantitative Histopathology Image Ontology (QHIO)",
+      "creators": [
+        {
+          "firstName": "Metin N.",
+          "lastName": "Gurcan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James A.",
+          "lastName": "Overton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alan",
+          "lastName": "Ruttenberg",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Barry",
+          "lastName": "Smith",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "breast cancer"
+        }
+      ],
+      "collections": [
+        "95LDGWED",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:43:25Z",
+      "dateModified": "2019-12-18T20:43:44Z",
+      "uri": "http://zotero.org/users/3294059/items/6IWNNZB4",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-02-19T14:43:25Z",
+          "dateModified": "2017-02-19T14:43:25Z",
+          "uri": "http://zotero.org/users/3294059/items/G7GTDH6X",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\G7GTDH6X\\S1532046416301800.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 242,
+      "key": "6IWNNZB4",
+      "citekey": "gurcan_developing_2017",
+      "citationKey": "gurcan_developing_2017",
+      "libraryID": 1
+    },
+    {
+      "version": 1161,
+      "itemType": "conferencePaper",
+      "url": "http://dx.doi.org/10.1117/12.812473",
+      "rights": "All rights reserved",
+      "volume": "7259",
+      "pages": "725905–725911",
+      "date": "2009",
+      "DOI": "10.1117/12.812473",
+      "abstractNote": "In this paper we present WERITAS, which is based in part on the traditional Active Shape Model (ASM) segmentation system. WERITAS generates multiple statistical texture features, and finds the optimal weighted average of those texture features by maximizing the correlation between the Euclidean distance to the ground truth and the Mahalanobis distance to the training data. The weighted average is used a multi-resolution segmentation system to more accurately detect the object border. A rigorous evaluation was performed on over 200 clinical images comprising of prostate images and breast images from 1.5 Tesla and 3 Tesla MRI machines via 6 distinct metrics. WERITAS was tested against a traditional multi-resolution ASM in addition to an ASM system which uses a plethora of random features to determine if the selection of features is improving the results rather than simply the use of multiple features. The results indicate that WERITAS outperforms all other methods to a high degree of statistical significance. For 1.5T prostate MRI images, the overlap from WERITAS is 83%, the overlap from the random features is 81%, and the overlap from the traditional ASM is only 66%. In addition, using 3T prostate MRI images, the overlap from WERITAS is 77%, the overlap from the random features is 54%, and the overlap from the traditional ASM is 59%, suggesting the usefulness of WERITAS. The only metrics in which WERITAS was outperformed did not hold any degree of statistical significance. WERITAS is a robust, efficient, and accurate segmentation system with a wide range of applications.",
+      "title": "WERITAS: Weighted Ensemble of Regional Image Textures for ASM Segmentation",
+      "creators": [
+        {
+          "firstName": "Robert",
+          "lastName": "Toth",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mark",
+          "lastName": "Rosen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Arjun",
+          "lastName": "Kalyanpur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sona",
+          "lastName": "Pungavkar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "B Nicolas",
+          "lastName": "Bloch",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elizabeth",
+          "lastName": "Genega",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Neil",
+          "lastName": "Rofsky",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Lenkinski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:58:08Z",
+      "dateModified": "2017-02-19T16:04:36Z",
+      "uri": "http://zotero.org/users/3294059/items/HHAJH7TF",
+      "attachments": [],
+      "notes": [
+        "<p>10.1117/12.812473</p>"
+      ],
+      "itemID": 243,
+      "key": "HHAJH7TF",
+      "citekey": "toth_weritas_2009",
+      "citationKey": "toth_weritas_2009",
+      "libraryID": 1,
+      "publicationTitle": "Proc. SPIE 7259, Medical Imaging 2009: Image Processing"
+    },
+    {
+      "version": 3056,
+      "itemType": "journalArticle",
+      "url": "http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2015;volume=6;issue=1;spage=41;epage=41;aulast=Sridhar;type=0",
+      "rights": "All rights reserved",
+      "volume": "6",
+      "issue": "1",
+      "pages": "41",
+      "publicationTitle": "Journal of Pathology Informatics",
+      "ISSN": "2153-3539",
+      "date": "2015",
+      "extra": "PMID: 26167385",
+      "DOI": "10.4103/2153-3539.159441",
+      "accessDate": "2017-02-19T14:40:40Z",
+      "libraryCatalog": "www.jpathinformatics.org",
+      "language": "en",
+      "abstractNote": "<b>Context</b> : Content-based image retrieval (CBIR) systems allow for retrieval of images from within a database that are similar in visual content to a query image. This is useful for digital pathology, where text-based descriptors alone might be inadequate to accurately describe image content. By representing images via a set of quantitative image descriptors, the similarity between a query image with respect to archived, annotated images in a database can be computed and the most similar images retrieved. Recently, non-linear dimensionality reduction methods have become popular for embedding high-dimensional data into a reduced-dimensional space while preserving local object adjacencies, thereby allowing for object similarity to be determined more accurately in the reduced-dimensional space. However, most dimensionality reduction methods implicitly assume, in computing the reduced-dimensional representation, that all features are equally important. <b>Aims</b> : In this paper we present boosted spectral embedding (BoSE), which utilizes a boosted distance metric to selectively weight individual features (based on training data) to subsequently map the data into a reduced-dimensional space. <b>Settings</b> <b>and</b> <b>Design</b> : BoSE is evaluated against spectral embedding (SE) (which employs equal feature weighting) in the context of CBIR of digitized prostate and breast cancer histopathology images. <b>Materials and Methods</b> : The following datasets, which were comprised of a total of 154 hematoxylin and eosin stained histopathology images, were used: (1) Prostate cancer histopathology (benign vs. malignant), (2) estrogen receptor (ER) + breast cancer histopathology (low vs. high grade), and (3) HER2+ breast cancer histopathology (low vs. high levels of lymphocytic infiltration). <b>Statistical</b> <b>Analysis</b> <b>Used</b> : We plotted and calculated the area under precision-recall curves (AUPRC) and calculated classification accuracy using the Random Forest classifier. <b>Results</b> : BoSE outperformed SE both in terms of CBIR-based (area under the precision-recall curve) and classifier-based (classification accuracy) on average across all of the dimensions tested for all three datasets: (1) Prostate cancer histopathology (AUPRC: BoSE = 0.79, SE = 0.63; Accuracy: BoSE = 0.93, SE = 0.80), (2) ER + breast cancer histopathology (AUPRC: BoSE = 0.79, SE = 0.68; Accuracy: BoSE = 0.96, SE = 0.96), and (3) HER2+ breast cancer histopathology (AUPRC: BoSE = 0.54, SE = 0.44; Accuracy: BoSE = 0.93, SE = 0.91). <b>Conclusion</b> : Our results suggest that BoSE could serve as an important tool for CBIR and classification of high-dimensional biomedical data.",
+      "title": "Content-based image retrieval of digitized histopathology in boosted spectrally embedded spaces",
+      "creators": [
+        {
+          "firstName": "Akshay",
+          "lastName": "Sridhar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:40:40Z",
+      "dateModified": "2019-12-18T20:43:31Z",
+      "uri": "http://zotero.org/users/3294059/items/4FXPGWRP",
+      "attachments": [
+        {
+          "version": 1159,
+          "itemType": "attachment",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/26167385",
+          "accessDate": "2017-02-19T14:40:40Z",
+          "title": "PubMed entry",
+          "parentItem": "4FXPGWRP",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "inPublications": true,
+          "relations": {},
+          "dateAdded": "2017-02-19T14:40:40Z",
+          "dateModified": "2017-02-19T14:40:40Z",
+          "uri": "http://zotero.org/users/3294059/items/BKCG26WN",
+          "itemID": 2368,
+          "key": "BKCG26WN"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-02-19T14:40:40Z",
+          "dateModified": "2017-02-19T14:40:40Z",
+          "uri": "http://zotero.org/users/3294059/items/94HZFTZ7",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\94HZFTZ7\\article.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 245,
+      "key": "4FXPGWRP",
+      "citekey": "sridhar_content-based_2015",
+      "citationKey": "sridhar_content-based_2015",
+      "libraryID": 1
+    },
+    {
+      "version": 3055,
+      "itemType": "journalArticle",
+      "url": "http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2015;volume=6;issue=1;spage=37;epage=37;aulast=Smith;type=0",
+      "rights": "All rights reserved",
+      "volume": "6",
+      "issue": "1",
+      "pages": "37",
+      "publicationTitle": "Journal of Pathology Informatics",
+      "ISSN": "2153-3539",
+      "date": "2015",
+      "extra": "PMID: 26167381",
+      "DOI": "10.4103/2153-3539.159214",
+      "accessDate": "2017-02-19T14:39:03Z",
+      "libraryCatalog": "www.jpathinformatics.org",
+      "language": "en",
+      "abstractNote": "<b>Background:</b> Ontology is one strategy for promoting interoperability of heterogeneous data through consistent tagging. An ontology is a controlled structured vocabulary consisting of general terms (such as cell or image or tissue or microscope) that form the basis for such tagging. These terms are designed to represent the types of entities in the domain of reality that the ontology has been devised to capture; the terms are provided with logical defi nitions thereby also supporting reasoning over the tagged data. <b>Aim:</b> This paper provides a survey of the biomedical imaging ontologies that have been developed thus far. It outlines the challenges, particularly faced by ontologies in the fields of histopathological imaging and image analysis, and suggests a strategy for addressing these challenges in the example domain of quantitative histopathology imaging. <b>Results and Conclusions:</b> The ultimate goal is to support the multiscale understanding of disease that comes from using interoperable ontologies to integrate imaging data with clinical and genomics data.",
+      "title": "Biomedical imaging ontologies: A survey and proposal for future work",
+      "shortTitle": "Biomedical imaging ontologies",
+      "creators": [
+        {
+          "firstName": "Barry",
+          "lastName": "Smith",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sivaram",
+          "lastName": "Arabandi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mathias",
+          "lastName": "Brochhausen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Calhoun",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Paolo",
+          "lastName": "Ciccarese",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bernard",
+          "lastName": "Gibaud",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ilya",
+          "lastName": "Goldberg",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Charles E.",
+          "lastName": "Kahn",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Overton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Metin",
+          "lastName": "Gurcan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:39:03Z",
+      "dateModified": "2019-12-18T20:42:48Z",
+      "uri": "http://zotero.org/users/3294059/items/BXV9DPUD",
+      "attachments": [
+        {
+          "version": 1159,
+          "itemType": "attachment",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/26167381",
+          "accessDate": "2017-02-19T14:39:03Z",
+          "title": "PubMed entry",
+          "parentItem": "BXV9DPUD",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "inPublications": true,
+          "relations": {},
+          "dateAdded": "2017-02-19T14:39:03Z",
+          "dateModified": "2017-02-19T14:39:03Z",
+          "uri": "http://zotero.org/users/3294059/items/V6SM27B9",
+          "itemID": 2370,
+          "key": "V6SM27B9"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-02-19T14:39:03Z",
+          "dateModified": "2017-02-19T14:39:03Z",
+          "uri": "http://zotero.org/users/3294059/items/3WFI5S5B",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\3WFI5S5B\\article.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 246,
+      "key": "BXV9DPUD",
+      "citekey": "smith_biomedical_2015",
+      "citationKey": "smith_biomedical_2015",
+      "libraryID": 1
+    },
+    {
+      "version": 3055,
+      "itemType": "conferencePaper",
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5872506&isnumber=5872340",
+      "rights": "All rights reserved",
+      "place": "Chicago, IL, USA",
+      "pages": "715-718",
+      "date": "2011",
+      "DOI": "10.1109/ISBI.2011.5872506",
+      "libraryCatalog": "IEEE Xplore",
+      "conferenceName": "2011 IEEE International Symposium on Biomedical Imaging (ISBI)",
+      "abstractNote": "Gleason grading of prostate cancer is complicated by cancer confounders, or benign tissues closely resembling malignant processes (e.g. atrophy), which account for as much as 34% of misdiagnoses. Thus, it is critical to correctly identify confounders in a computer-aided diagnosis system. In this work, we present a cascaded multi-class pairwise classifier (CascaMPa) to identify the class of regions of interest (ROIs) of prostate tissue biopsies. CascaMPa incorporates domain knowledge to partition the multi-class problem into several binary-class tasks, reducing the intra-class heterogeneity that causes errors in one-versus-all multi-class approaches. Nuclear centroids are detected automatically via a deconvolution and watershed algorithm, and a set of features are calculated from graphs (Voronoi, Delaunay, and minimum spanning tree graphs) constructed on the centroids. The cascaded multi-class algorithm identifies each feature vector as one of six tissue classes: Gleason patterns 3, 4, and 5, normal epithelium and stroma, and non-cancerous atrophy (a cancer confounder) using a decision tree classifier. Performance of CascaMPa is evaluated using positive predictive value (PPV) and area under the receiver operating characteristic curve (AUC). For a database of 50 image patches per class (300 ROIs) from 118 patient studies, the classifier achieves an average PPV of 0.760 and AUC of 0.762 across all classes, while the one-versus-all approach yields an average PPV of 0.633 and AUC of 0.444.",
+      "title": "Cascaded multi-class pairwise classifier (CascaMPa) for normal, cancerous, and cancer confounder classes in prostate histology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Natalie",
+          "lastName": "Shih",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "biopsy"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:26:46Z",
+      "dateModified": "2019-12-18T20:43:08Z",
+      "uri": "http://zotero.org/users/3294059/items/KM6FSDE9",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "IEEE Xplore Abstract Record",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-02-19T14:26:46Z",
+          "dateModified": "2017-02-19T14:26:46Z",
+          "uri": "http://zotero.org/users/3294059/items/PZCF7MHA",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\PZCF7MHA\\5872506.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 247,
+      "key": "KM6FSDE9",
+      "citekey": "doyle_cascaded_2011",
+      "citationKey": "doyle_cascaded_2011",
+      "libraryID": 1,
+      "publicationTitle": "2011 IEEE International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 3056,
+      "itemType": "conferencePaper",
+      "url": "http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4462865&isnumber=4461641",
+      "rights": "All rights reserved",
+      "place": "New York, NY, USA",
+      "pages": "4759-4762",
+      "date": "2006",
+      "DOI": "10.1109/IEMBS.2006.260188",
+      "libraryCatalog": "IEEE Xplore",
+      "conferenceName": "2006 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS)",
+      "abstractNote": "In this paper we present a computer-aided diagnosis (CAD) system to automatically detect prostatic adenocarcinoma from high resolution digital histopathological slides. This is especially desirable considering the large number of tissue slides that are currently analyzed manually - a laborious and time-consuming task. Our methodology is novel in that texture-based classification is performed using a hierarchical classifier within a multi-scale framework. Pyramidal decomposition is used to reduce an image into its constituent scales. The cascaded image analysis across multiple scales is similar to the manner in which pathologists analyze histopathology. Nearly 600 different image texture features at multiple orientations are extracted at every pixel at each image scale. At each image scale the classifier only analyzes those image pixels that have been determined to be tumor at the preceding lower scale. Results of quantitative evaluation on 20 patient studies indicate (1) an overall accuracy of over 90% and (2) an approximate 8-fold savings in terms of computational time. Both the AdaBoost and decision tree classifiers were considered and in both cases tumor detection sensitivity was found to be relatively constant across different scales. Detection specificity was however found to increase at higher scales reflecting the availability of additional discriminatory information",
+      "title": "Detecting Prostatic Adenocarcinoma From Digitized Histology Using a Multi-Scale Hierarchical Classification Approach",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlos",
+          "lastName": "Rodriguez",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszeweski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "adenocarcinoma"
+        },
+        {
+          "tag": "algorithms"
+        },
+        {
+          "tag": "biopsy"
+        },
+        {
+          "tag": "humans"
+        },
+        {
+          "tag": "reproducibility of results"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:23:53Z",
+      "dateModified": "2019-12-18T20:43:39Z",
+      "uri": "http://zotero.org/users/3294059/items/85CF596X",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "IEEE Xplore Abstract Record",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-02-19T14:23:53Z",
+          "dateModified": "2017-02-19T14:23:53Z",
+          "uri": "http://zotero.org/users/3294059/items/JMZG2GR3",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\JMZG2GR3\\4462865.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 248,
+      "key": "85CF596X",
+      "citekey": "doyle_detecting_2006",
+      "citationKey": "doyle_detecting_2006",
+      "libraryID": 1,
+      "publicationTitle": "2006 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBS)"
+    },
+    {
+      "version": 3059,
+      "itemType": "conferencePaper",
+      "rights": "All rights reserved",
+      "place": "London, UK",
+      "date": "2009-01-01",
+      "title": "A Class Balanced Active Learning Scheme That Accounts For Minority Class Problems: Applications To Histopathology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Monaco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszeweski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathology"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:09Z",
+      "dateModified": "2019-12-18T20:47:50Z",
+      "uri": "http://zotero.org/users/3294059/items/87NRJNID",
+      "attachments": [],
+      "notes": [],
+      "itemID": 249,
+      "key": "87NRJNID",
+      "citekey": "doyle_class_2009",
+      "citationKey": "doyle_class_2009",
+      "libraryID": 1,
+      "publicationTitle": "2009 MICCAI Workshop: Optical Tissue Image Analysis in Microscopy, Histopathology and Endoscopy"
+    },
+    {
+      "version": 1266,
+      "itemType": "patent",
+      "rights": "All rights reserved",
+      "assignee": "Rutgers The State University of New Jersey, The Trustees of the University of Pennsylvania",
+      "abstractNote": "This invention relates to computer-aided diagnostics using content-based retrieval of histopathological image features. Specifically, the inventino relates to the extraction of image features from a histopathological image based on predetermined criteria and their analysis for malignancy determination.",
+      "country": "United States",
+      "applicationNumber": "US 12/375,981",
+      "title": "Malignancy Diagnosis Using Content-based Image Retrieval of Tissue Histopathology",
+      "filingDate": "Aug 1, 2007",
+      "creators": [
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "inventor"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:54:51Z",
+      "dateModified": "2017-02-19T02:55:14Z",
+      "uri": "http://zotero.org/users/3294059/items/EU4CF8ZC",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:54:51Z",
+          "dateModified": "2016-08-26T17:54:51Z",
+          "uri": "http://zotero.org/users/3294059/items/QXUZWKHI",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\QXUZWKHI\\DoylePatent8280132.pdf"
+        }
+      ],
+      "notes": [],
+      "itemID": 250,
+      "key": "EU4CF8ZC",
+      "citekey": "madabhushi_malignancy_2012",
+      "citationKey": "madabhushi_malignancy_2012",
+      "libraryID": 1,
+      "date": "2012",
+      "number": "US8280132 B2"
+    },
+    {
+      "version": 3057,
+      "itemType": "conferencePaper",
+      "rights": "All rights reserved",
+      "place": "London, ON",
+      "pages": "165",
+      "date": "2017",
+      "conferenceName": "15th Annual Meeting of Imaging Network Ontario",
+      "abstractNote": "Introduction: This project  focuses  on fusing  digital  histological  image  databases obtained from multiple institutions. Modern image classifiers like convolutional neural networks (CNNs) have enjoyed great success in natural image analysis. This success is dependent  on vast  amounts of  training  cases:  the  well-studied  ImageNet  database 1 contains  over  14  million  images  described  by  over  20,000  phrases. Unfortunately, there  is  no histopathological  image database  of  comparable  size, as  building  such  a \nmassive  collection  of   human-annotated  data  for  digital  pathology   is  a   massive undertaking.  To  circumvent  this  difficulty,  we  aim  to  demonstrate  a  quantitative approach  to  compare  datasets  collected  from  multiple  institutions  for  the  purpose  of dataset fusion to improve training set size. We  demonstrate  our  approach  on  digitized  H&E  tissue  sections  of  colorectal cancer (CRC). Kather, et al. 2 have published a method for identifying 8 tissue classes from CRC  images using support vector machines  (SVMs) and texture-based  features, and have provided their image data and code for download. In this study, we compare \nthe Kather dataset (hereafter “Kather”) with a set of CRC images ob\ntained at the Erie \nCounty  Medical  Center  (“ECMC”)\n. \nThis  fusion  allows  us  to \nextend  our  image \ndatabase to \nbuild more robust \nclassifiers. \nMethods:\nWe  begin  by  extracting  the  top\n-\nperforming  texture  features  (as  reported \npreviously\n2\n)  from both the “Kather” a\nnd “ECMC” image datasets. Four measures of \ndataset similarity are computed: (1) A Student’s T\n-\ntest  is  performed  on  the  feature \nvectors  in  each  class  to  establish  whether  the  datasets  are  statistically  significantly \ndifferent.  (2)  Cluster  plots  of  the  featu\nres  are  created  to  visualize  the  differences \nbetween class structures in each dataset. (3) The variance ratio criteria (VRC), a ratio \nof  between\n-\ncluster  to  within\n-\ncluster  variance,  is  calculated  to  measure  clustering \nsimilarity.  (4)  SVM  classification  is  u\nsed  to  establish  whether  there  is  a  difference \nbetween classifier performance. \nResults:\n(1) \nThe  results  of  the  t\n-\ntest  are  given  in \nFigure  2\n.  We  reject  the  null \nhypothesis,  meaning  that  the  feature  vectors  from  the  two  datasets  likely  come  from \npopulations\nwith  different  means.  (2)  However,  the  cluster  plots  in \nFigure  3\nshow  a \nsimilar  class  structure  in  feature  space,  indicating  that  the  difference  between  the \ndataset  features  may  not  impact  classifier  performance.  (3)  The  calculated  VRC  for \n“Kather\n” is 0.0806; for “ECMC”, 0.0991. This indicates that both datasets have a \nsimilar  between\n-\ncluster  /  within\n-\ncluster  ratio,  further  validating  the  class  structure \nsimilarity  in  feature  space.  (4)  SVM  classification  results  are  shown  in \nFigure  4\nfor each of the 4 classes, along with the absolute difference  in performance.  We observe that “ECMC” achieves higher performance, commensurate with its higher VRC value. Conclusions: Proper  multi-institutional  dataset  fusion  provides  a  way  to  build  large, annotated  databases  of  digital pathology  images  at  a  greatly  reduced cost.  While  our statistical  tests  showed that  there  is  a  statistical  difference between  the  means  of  the Kather  and ECMC  image  sets feature  values,  the cluster  analysis  and classification results  suggest that similar  patterns  in  feature  space  allow for  similar  performance  in SVM classification. Future work will focus on further validation of the fused datasets in  additional  contexts,  including training  deep  CNN  classifiers  for pixel-wise  tissue segmentation on high-resolution images.",
+      "title": "Quantitative Dataset Similarity for Fusing Multi-Institutional Image Collections",
+      "creators": [
+        {
+          "firstName": "Ryan",
+          "lastName": "Therrian",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "William",
+          "lastName": "Mangione",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle,",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-05-25T14:38:41Z",
+      "dateModified": "2019-12-18T20:44:32Z",
+      "uri": "http://zotero.org/users/3294059/items/DSXD3RE3",
+      "attachments": [],
+      "notes": [],
+      "itemID": 419,
+      "key": "DSXD3RE3",
+      "citekey": "therrian_quantitative_2017",
+      "citationKey": "therrian_quantitative_2017",
+      "libraryID": 1
+    },
+    {
+      "version": 2601,
+      "itemType": "journalArticle",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-80055018052&partnerID=tZOtx3y1",
+      "rights": "All rights reserved",
+      "volume": "12",
+      "pages": "424",
+      "publicationTitle": "BMC Bioinformatics",
+      "date": "2011",
+      "abstractNote": "BACKGROUND: Supervised classifiers for digital pathology can improve the ability of physicians to detect and diagnose diseases such as cancer. Generating training data for classifiers is problematic, since only domain experts (e.g. pathologists) can correctly label ground truth data. Additionally, digital pathology datasets suffer from the \"minority class problem\", an issue where the number of exemplars from the non-target class outnumber target class exemplars which can bias the classifier and reduce accuracy. In this paper, we develop a training strategy combining active learning (AL) with class-balancing. AL identifies unlabeled samples that are \"informative\" (i.e. likely to increase classifier performance) for annotation, avoiding non-informative samples. This yields high accuracy with a smaller training set size compared with random learning (RL). Previous AL methods have not explicitly accounted for the minority class problem in biomedical images. Pre-specifying a target class ratio mitigates the problem of training bias. Finally, we develop a mathematical model to predict the number of annotations (cost) required to achieve balanced training classes. In addition to predicting training cost, the model reveals the theoretical properties of AL in the context of the minority class problem.$\\backslash$n$\\backslash$nRESULTS: Using this class-balanced AL training strategy (CBAL), we build a classifier to distinguish cancer from non-cancer regions on digitized prostate histopathology. Our dataset consists of 12,000 image regions sampled from 100 biopsies (58 prostate cancer patients). We compare CBAL against: (1) unbalanced AL (UBAL), which uses AL but ignores class ratio; (2) class-balanced RL (CBRL), which uses RL with a specific class ratio; and (3) unbalanced RL (UBRL). The CBAL-trained classifier yields 2% greater accuracy and 3% higher area under the receiver operating characteristic curve (AUC) than alternatively-trained classifiers. Our cost model accurately predicts the number of annotations necessary to obtain balanced classes. The accuracy of our prediction is verified by empirically-observed costs. Finally, we find that over-sampling the minority class yields a marginal improvement in classifier accuracy but the improved performance comes at the expense of greater annotation cost.$\\backslash$n$\\backslash$nCONCLUSIONS: We have combined AL with class balancing to yield a general training strategy applicable to most supervised classification problems where the dataset is expensive to obtain and which suffers from the minority class problem. An intelligent training strategy is a critical component of supervised classification, but the integration of AL and intelligent choice of class ratios, as well as the application of a general cost model, will help researchers to plan the training process more quickly and effectively.",
+      "title": "An active learning based classification strategy for the minority class problem: application to histopathology annotation",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Monaco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathology"
+        },
+        {
+          "tag": "genetics"
+        },
+        {
+          "tag": "humans"
+        },
+        {
+          "tag": "Model"
+        },
+        {
+          "tag": "artificial intelligence"
+        },
+        {
+          "tag": "classification"
+        },
+        {
+          "tag": "Area Under Curve"
+        },
+        {
+          "tag": "Prostatic Neoplasms"
+        },
+        {
+          "tag": "Theoretical"
+        }
+      ],
+      "collections": [
+        "6VQYNURL",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:09Z",
+      "dateModified": "2018-05-19T01:13:23Z",
+      "uri": "http://zotero.org/users/3294059/items/U326D4DG",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:52:09Z",
+          "dateModified": "2016-11-30T20:06:57Z",
+          "uri": "http://zotero.org/users/3294059/items/GC5FQ2DZ",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\GC5FQ2DZ\\Doyle-2011-An active learning b.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Doyle, Scott Monaco, James Feldman, Michael Tomaszewski, John Madabhushi, Anant eng R01CA136535-01/CA/NCI NIH HHS/ R01CA140772-01/CA/NCI NIH HHS/ R03CA143991-01/CA/NCI NIH HHS/ Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov&apos;t Research Support, U.S. Gov&apos;t, Non-P.H.S. England 2011/11/01 06:00 BMC Bioinformatics. 2011 Oct 28;12:424. doi: 10.1186/1471-2105-12-424.</p>"
+      ],
+      "itemID": 448,
+      "key": "U326D4DG",
+      "citekey": "doyle_active_2011",
+      "citationKey": "doyle_active_2011",
+      "libraryID": 1
+    },
+    {
+      "version": 3061,
+      "itemType": "conferencePaper",
+      "url": "http://dx.doi.org/10.1117/12.813931",
+      "rights": "All rights reserved",
+      "volume": "7260",
+      "pages": "72603F–72603F–12",
+      "date": "2009-01-01",
+      "DOI": "10.1117/12.813931",
+      "abstractNote": "Distance metrics are often used as a way to compare the similarity of two objects, each represented by a set of features in high-dimensional space. The Euclidean metric is a popular distance metric, employed for a variety of applications. Non-Euclidean distance metrics have also been proposed, and the choice of distance metric for any specific application or domain is a non-trivial task. Furthermore, most distance metrics treat each dimension or object feature as having the same relative importance in determining object similarity. In many applications, such as in Content-Based Image Retrieval (CBIR), where images are quantified and then compared according to their image content, it may be beneficial to utilize a similarity metric where features are weighted according to their ability to distinguish between object classes. In the CBIR paradigm, every image is represented as a vector of quantitative feature values derived from the image content, and a similarity measure is applied to determine which of the database images is most similar to the query. In this work, we present a boosted distance metric (BDM), where individual features are weighted according to their discriminatory power, and compare the performance of this metric to 9 other traditional distance metrics in a CBIR system for digital histopathology. We apply our system to three different breast tissue histology cohorts - (1) 54 breast histology studies corresponding to benign and cancerous images, (2) 36 breast cancer studies corresponding to low and high Bloom-Richardson (BR) grades, and (3) 41 breast cancer studies with high and low levels of lymphocytic infiltration. Over all 3 data cohorts, the BDM performs better compared to 9 traditional metrics, with a greater area under the precision-recall curve. In addition, we performed SVM classification using the BDM along with the traditional metrics, and found that the boosted metric achieves a higher classification accuracy (over 96%) in distinguishing between the tissue classes in each of 3 data cohorts considered. The 10 different similarity metrics were also used to generate similarity matrices between all samples in each of the 3 cohorts. For each cohort, each of the 10 similarity matrices were subjected to normalized cuts, resulting in a reduced dimensional representation of the data samples. The BDM resulted in the best discrimination between tissue classes in the reduced embedding space.",
+      "title": "A boosted distance metric: application to content based image retrieval and classification of digitized histopathology",
+      "creators": [
+        {
+          "firstName": "Jay",
+          "lastName": "Naik",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ajay",
+          "lastName": "Basavanhally",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shridar",
+          "lastName": "Ganesan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathology"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF",
+        "MFFEZV5N"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:55:28Z",
+      "dateModified": "2019-12-18T20:47:37Z",
+      "uri": "http://zotero.org/users/3294059/items/CEKZ99V2",
+      "attachments": [],
+      "notes": [
+        "<p>10.1117/12.813931</p>"
+      ],
+      "itemID": 490,
+      "key": "CEKZ99V2",
+      "citekey": "naik_boosted_2009",
+      "citationKey": "naik_boosted_2009",
+      "libraryID": 1,
+      "publicationTitle": "Proc. SPIE 7260, Medical Imaging 2009: Computer-Aided Diagnosis"
+    },
+    {
+      "version": 3064,
+      "itemType": "journalArticle",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/20570758",
+      "rights": "All rights reserved",
+      "volume": "59",
+      "issue": "5",
+      "pages": "1205–1218",
+      "publicationTitle": "IEEE Transactions on Biomedical Engineering",
+      "date": "2012-01-01",
+      "extra": "PMID: 20570758",
+      "DOI": "10.1109/TBME.2010.2053540",
+      "abstractNote": "Diagnosis of prostate cancer (CaP) currently involves examining tissue samples for CaP presence and extent via a microscope, a time-consuming and subjective process. With the advent of digital pathology, computer-aided algorithms can now be applied to disease detection on digitized glass slides. The size of these digitized histology images (hundreds of millions of pixels) presents a formidable challenge for any computerized image analysis program. In this paper, we present a boosted Bayesian multiresolution (BBMR) system to identify regions of CaP on digital biopsy slides. Such a system would serve as an important preceding step to a Gleason grading algorithm, where the objective would be to score the invasiveness and severity of the disease. In the first step, our algorithm decomposes the whole-slide image into an image pyramid comprising multiple resolution levels. Regions identified as cancer via a Bayesian classifier at lower resolution levels are subsequently examined in greater detail at higher resolution levels, thereby allowing for rapid and efficient analysis of large images. At each resolution level, ten image features are chosen from a pool of over 900 first-order statistical, second-order co-occurrence, and Gabor filter features using an AdaBoost ensemble method. The BBMR scheme, operating on 100 images obtained from 58 patients, yielded: 1) areas under the receiver operating characteristic curve (AUC) of 0.84, 0.83, and 0.76, respectively, at the lowest, intermediate, and highest resolution levels and 2) an eightfold savings in terms of computational time compared to running the algorithm directly at full (highest) resolution. The BBMR model outperformed (in terms of AUC): 1) individual features (no ensemble) and 2) a random forest classifier ensemble obtained by bagging multiple decision tree classifiers. The apparent drop-off in AUC at higher image resolutions is due to lack of fine detail in the expert annotation of CaP and is not an artifact of the classifier. The implicit feature selection done via the AdaBoost component of the BBMR classifier reveals that different classes and types of image features become more relevant for discriminating between CaP and benign areas at different image resolutions.",
+      "title": "A boosted Bayesian multiresolution classifier for prostate cancer detection from digitized needle biopsies",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer-aided detection (CAD)"
+        },
+        {
+          "tag": "histology"
+        },
+        {
+          "tag": "Pathology"
+        },
+        {
+          "tag": "prostate cancer (CaP)"
+        },
+        {
+          "tag": "Quantification"
+        },
+        {
+          "tag": "supervised classification"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF",
+        "MFFEZV5N"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:52:09Z",
+      "dateModified": "2019-12-18T20:47:18Z",
+      "uri": "http://zotero.org/users/3294059/items/F9XVES26",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:52:06Z",
+          "dateModified": "2016-11-29T17:48:41Z",
+          "uri": "http://zotero.org/users/3294059/items/9Q4GJFDT",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\9Q4GJFDT\\Doyle-2012-A boosted Bayesian m.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Doyle, Scott Feldman, Michael Tomaszewski, John Madabhushi, Anant eng R01CA136535-01/CA/NCI NIH HHS/ R21 CA127186-02S1/CA/NCI NIH HHS/ R21CA127186-01, AND GRANT R03CA128081-01, BY THE DEPARTMENT/CA/NCI NIH HHS/ Research Support, American Recovery and Reinvestment Act Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov&apos;t 2010/06/24 06:00 IEEE Trans Biomed Eng. 2012 May;59(5):1205-18. doi: 10.1109/TBME.2010.2053540. Epub 2010 Jun 21.</p>"
+      ],
+      "itemID": 491,
+      "key": "F9XVES26",
+      "citekey": "doyle_boosted_2012",
+      "citationKey": "doyle_boosted_2012",
+      "libraryID": 1
+    },
+    {
+      "version": 2604,
+      "itemType": "journalArticle",
+      "rights": "All rights reserved",
+      "volume": "35",
+      "issue": "7-8",
+      "pages": "506–514",
+      "publicationTitle": "Computerized Medical Imaging and Graphics",
+      "date": "2011",
+      "abstractNote": "Computer-aided prognosis (CAP) is a new and exciting complement to the field of computer-aided diagnosis (CAD) and involves developing and applying computerized image analysis and multi-modal data fusion algorithms to digitized patient data (e.g. imaging, tissue, genomic) for helping physicians predict disease outcome and patient survival. While a number of data channels, ranging from the macro (e.g. MRI) to the nano-scales (proteins, genes) are now being routinely acquired for disease characterization, one of the challenges in predicting patient outcome and treatment response has been in our inability to quantitatively fuse these disparate, heterogeneous data sources. At the Laboratory for Computational Imaging and Bioinformatics (LCIB). 11http://lcib.rutgers.edu. at Rutgers University, our team has been developing computerized algorithms for high dimensional data and image analysis for predicting disease outcome from multiple modalities including MRI, digital pathology, and protein expression. Additionally, we have been developing novel data fusion algorithms based on non-linear dimensionality reduction methods (such as Graph Embedding) to quantitatively integrate information from multiple data sources and modalities with the overarching goal of optimizing meta-classifiers for making prognostic predictions. In this paper, we briefly describe 4 representative and ongoing CAP projects at LCIB. These projects include (1) an Image-based Risk Score (IbRiS) algorithm for predicting outcome of Estrogen receptor positive breast cancer patients based on quantitative image analysis of digitized breast cancer biopsy specimens alone, (2) segmenting and determining extent of lymphocytic infiltration (identified as a possible prognostic marker for outcome in human epidermal growth factor amplified breast cancers) from digitized histopathology, (3) distinguishing patients with different Gleason grades of prostate cancer (grade being known to be correlated to outcome) from digitized needle biopsy specimens, and (4) integrating protein expression measurements obtained from mass spectrometry with quantitative image features derived from digitized histopathology for distinguishing between prostate cancer patients at low and high risk of disease recurrence following radical prostatectomy. ?? 2011 Elsevier Ltd.",
+      "title": "Computer-aided prognosis: Predicting patient and disease outcome via quantitative fusion of multi-scale, multi-modal data",
+      "creators": [
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shannon",
+          "lastName": "Agner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ajay",
+          "lastName": "Basavanhally",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Lee",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "breast cancer"
+        },
+        {
+          "tag": "Pathology"
+        },
+        {
+          "tag": "humans"
+        },
+        {
+          "tag": "Computer-Assisted"
+        },
+        {
+          "tag": "algorithms"
+        },
+        {
+          "tag": "Neoplasm Grading"
+        },
+        {
+          "tag": "data fusion"
+        },
+        {
+          "tag": "mass spectrometry"
+        },
+        {
+          "tag": "female"
+        },
+        {
+          "tag": "computer-aided prognosis (cap)"
+        },
+        {
+          "tag": "multi-modal"
+        },
+        {
+          "tag": "personalized medicine"
+        },
+        {
+          "tag": "breast neoplasms"
+        },
+        {
+          "tag": "methods"
+        },
+        {
+          "tag": "Prostatic Neoplasms"
+        },
+        {
+          "tag": "Image Interpretation"
+        },
+        {
+          "tag": "Outcome Assessment (Health Care)"
+        },
+        {
+          "tag": "Clinical"
+        },
+        {
+          "tag": "Diagnostic Imaging"
+        },
+        {
+          "tag": "Gleason grade"
+        },
+        {
+          "tag": "Outcome"
+        },
+        {
+          "tag": "Protein expression"
+        }
+      ],
+      "collections": [
+        "6VQYNURL",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:54:57Z",
+      "dateModified": "2018-05-18T01:33:47Z",
+      "uri": "http://zotero.org/users/3294059/items/8VAFQ8HZ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Madabhushi et al_2011_Computer-aided prognosis.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-04-14T17:18:04Z",
+          "dateModified": "2017-04-14T17:18:07Z",
+          "uri": "http://zotero.org/users/3294059/items/THBG5R9H",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\THBG5R9H\\Madabhushi et al_2011_Computer-aided prognosis.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Madabhushi, Anant Agner, Shannon Basavanhally, Ajay Doyle, Scott Lee, George eng R01CA136535/CA/NCI NIH HHS/ R01CA140772/CA/NCI NIH HHS/ R03CA143991/CA/NCI NIH HHS/ Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov&apos;t Research Support, U.S. Gov&apos;t, Non-P.H.S. 2011/02/22 06:00 Comput Med Imaging Graph. 2011 Oct-Dec;35(7-8):506-14. doi: 10.1016/j.compmedimag.2011.01.008. Epub 2011 Feb 17.</p>"
+      ],
+      "itemID": 515,
+      "key": "8VAFQ8HZ",
+      "citekey": "madabhushi_computer-aided_2011",
+      "citationKey": "madabhushi_computer-aided_2011",
+      "libraryID": 1
+    },
+    {
+      "version": 1392,
+      "itemType": "journalArticle",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/20491597",
+      "rights": "All rights reserved",
+      "volume": "48",
+      "issue": "7",
+      "pages": "989–998",
+      "publicationTitle": "Clinical Chemistry and Laboratory Medicine",
+      "date": "2010",
+      "extra": "PMID: 20491597",
+      "DOI": "10.1515/CCLM.2010.193",
+      "abstractNote": "With the advent of digital pathology, imaging scientists have begun to develop computerized image analysis algorithms for making diagnostic (disease presence), prognostic (outcome prediction), and theragnostic (choice of therapy) predictions from high resolution images of digitized histopathology. One of the caveats to developing image analysis algorithms for digitized histopathology is the ability to deal with highly dense, information rich datasets; datasets that would overwhelm most computer vision and image processing algorithms. Over the last decade, manifold learning and non-linear dimensionality reduction schemes have emerged as popular and powerful machine learning tools for pattern recognition problems. However, these techniques have thus far been applied primarily to classification and analysis of computer vision problems (e.g., face detection). In this paper, we discuss recent work by a few groups in the application of manifold learning methods to problems in computer aided diagnosis, prognosis, and theragnosis of digitized histopathology. In addition, we discuss some exciting recent developments in the application of these methods for multi-modal data fusion and classification; specifically the building of meta-classifiers by fusion of histological image and proteomic signatures for prostate cancer outcome prediction.",
+      "title": "Integrated diagnostics: a conceptual framework with examples",
+      "creators": [
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Lee",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ajay",
+          "lastName": "Basavanhally",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Monaco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Steve",
+          "lastName": "Masters",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathology"
+        },
+        {
+          "tag": "metabolism"
+        },
+        {
+          "tag": "humans"
+        },
+        {
+          "tag": "Diagnosis"
+        },
+        {
+          "tag": "Receptors"
+        },
+        {
+          "tag": "Computer-Assisted"
+        },
+        {
+          "tag": "algorithms"
+        },
+        {
+          "tag": "female"
+        },
+        {
+          "tag": "breast neoplasms"
+        },
+        {
+          "tag": "Prostatic Neoplasms"
+        },
+        {
+          "tag": "Clinical"
+        },
+        {
+          "tag": "Automated"
+        },
+        {
+          "tag": "erbB-2"
+        },
+        {
+          "tag": "pattern recognition"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:54:52Z",
+      "dateModified": "2018-05-18T01:32:30Z",
+      "uri": "http://zotero.org/users/3294059/items/788KXUV5",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:54:52Z",
+          "dateModified": "2016-08-26T17:54:52Z",
+          "uri": "http://zotero.org/users/3294059/items/S2MW8QTE",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\S2MW8QTE\\Madabhushi-2010-Integrated diagnosti.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Madabhushi, Anant Doyle, Scott Lee, George Basavanhally, Ajay Monaco, James Masters, Steve Tomaszewski, John Feldman, Michael eng R01CA136535-01/CA/NCI NIH HHS/ R03CA128081-01/CA/NCI NIH HHS/ R03CA143991-01/CA/NCI NIH HHS/ R21CA127186/CA/NCI NIH HHS/ Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov&apos;t Research Support, U.S. Gov&apos;t, Non-P.H.S. Review Germany 2010/05/25 06:00 Clin Chem Lab Med. 2010 Jul;48(7):989-98. doi: 10.1515/CCLM.2010.193.</p>"
+      ],
+      "itemID": 516,
+      "key": "788KXUV5",
+      "citekey": "madabhushi_integrated_2010",
+      "citationKey": "madabhushi_integrated_2010",
+      "libraryID": 1
+    },
+    {
+      "version": 1392,
+      "itemType": "journalArticle",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/19491367",
+      "rights": "All rights reserved",
+      "volume": "234",
+      "issue": "8",
+      "pages": "860–879",
+      "publicationTitle": "Experimental Biology and Medicine (Maywood)",
+      "date": "2009",
+      "extra": "PMID: 19491367",
+      "DOI": "10.3181/0902-MR-89",
+      "abstractNote": "With the increasing cost effectiveness of whole slide digital scanners, gene expression microarray and SNP technologies, tissue specimens can now be analyzed using sophisticated computer aided image and data analysis techniques for accurate diagnoses and identification of prognostic markers and potential targets for therapeutic intervention. Microarray analysis is routinely able to identify biomarkers correlated with survival and reveal pathways underlying pathogenesis and invasion. In this paper we describe how microarray profiling of tumor samples combined with simple but powerful methods of analysis can identify biologically distinct disease subclasses of breast cancer with distinct molecular signatures, differential recurrence rates and potentially, very different response to therapy. Image analysis methods are also rapidly finding application in the clinic, complementing the pathologist in quantitative, reproducible, detection, staging, and grading of disease. We will describe novel computerized image analysis techniques and machine learning tools for automated cancer detection from digitized histopathology and how they can be employed for disease diagnosis and prognosis for prostate and breast cancer.",
+      "title": "Towards improved cancer diagnosis and prognosis using analysis of gene expression data and computer aided imaging",
+      "creators": [
+        {
+          "firstName": "Gabriela",
+          "lastName": "Lexe",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James",
+          "lastName": "Monaco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ajay",
+          "lastName": "Basavanhally",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anupama",
+          "lastName": "Reddy",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Seiler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shridar",
+          "lastName": "Ganesan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gyan",
+          "lastName": "Bhanot",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "genetics"
+        },
+        {
+          "tag": "humans"
+        },
+        {
+          "tag": "female"
+        },
+        {
+          "tag": "breast neoplasms"
+        },
+        {
+          "tag": "Prostatic Neoplasms"
+        },
+        {
+          "tag": "Gene Expression Profiling"
+        },
+        {
+          "tag": "Oligonucleotide Array Sequence Analysis"
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2016-08-26T17:54:04Z",
+      "dateModified": "2018-05-17T01:26:10Z",
+      "uri": "http://zotero.org/users/3294059/items/CMKWUASP",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Attachment",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2016-08-26T17:54:04Z",
+          "dateModified": "2016-08-26T17:54:04Z",
+          "uri": "http://zotero.org/users/3294059/items/XFGCC6Z3",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\XFGCC6Z3\\Lexe-2009-Towards improved can.pdf"
+        }
+      ],
+      "notes": [
+        "<p>Lexe, Gabriela Monaco, James Doyle, Scott Basavanhally, Ajay Reddy, Anupama Seiler, Michael Ganesan, Shridar Bhanot, Gyan Madabhushi, Anant eng R03 CA128081/CA/NCI NIH HHS/ R03 CA128081-01/CA/NCI NIH HHS/ R03 CA128081-02/CA/NCI NIH HHS/ R03 CA143991/CA/NCI NIH HHS/ R03 CA143991-01/CA/NCI NIH HHS/ R03CA128081-01/CA/NCI NIH HHS/ R21 CA127186/CA/NCI NIH HHS/ R21 CA127186-01/CA/NCI NIH HHS/ R21 CA127186-02/CA/NCI NIH HHS/ R21 CA127186-02S1/CA/NCI NIH HHS/ R21CA127186-01/CA/NCI NIH HHS/ Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov&apos;t Research Support, U.S. Gov&apos;t, Non-P.H.S. Review Maywood, N.J. 2009/06/06 09:00 Exp Biol Med (Maywood). 2009 Aug;234(8):860-79. doi: 10.3181/0902-MR-89. Epub 2009 Jun 2.</p>"
+      ],
+      "itemID": 664,
+      "key": "CMKWUASP",
+      "citekey": "lexe_towards_2009",
+      "citationKey": "lexe_towards_2009",
+      "libraryID": 1
+    },
+    {
+      "version": 3055,
+      "itemType": "conferencePaper",
+      "pages": "1284-1287",
+      "date": "2007",
+      "DOI": "10.1109/ISBI.2007.357094",
+      "libraryCatalog": "IEEE Xplore",
+      "conferenceName": "2007 4th IEEE International Symposium on Biomedical Imaging: From Nano to Macro",
+      "abstractNote": "The current method of grading prostate cancer on histology uses the Gleason system, which describes five increasingly malignant stages of cancer according to qualitative analysis of tissue architecture. The Gleason grading system has been shown to suffer from inter- and intra-observer variability. In this paper we present a new method for automated and quantitative grading of prostate biopsy specimens. A total of 102 graph-based, morphological, and textural features are extracted from each tissue patch in order to quantify the arrangement of nuclei and glandular structures within digitized images of histological prostate tissue specimens. A support vector machine (SVM) is used to classify the digitized histology slides into one of four different tissue classes: benign epithelium, benign stroma, Gleason grade 3 adenocarcinoma, and Gleason grade 4 adenocarcinoma. The SVM classifier was able to distinguish between all four types of tissue patterns, achieving an accuracy of 92.8% when distinguishing between Gleason grade 3 and stroma, 92.4% between epithelium and stroma, and 76.9% between Gleason grades 3 and 4. Both textural and graph-based features were found to be important in discriminating between different tissue classes. This work suggests that the current Gleason grading scheme can be improved by utilizing quantitative image analysis to aid pathologists in producing an accurate and reproducible diagnosis",
+      "title": "AUTOMATED GRADING OF PROSTATE CANCER USING ARCHITECTURAL AND TEXTURAL IMAGE FEATURES",
+      "creators": [
+        {
+          "firstName": "S.",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "M.",
+          "lastName": "Hwang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "K.",
+          "lastName": "Shah",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "A.",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "M.",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "J.",
+          "lastName": "Tomaszeweski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "biopsy"
+        }
+      ],
+      "collections": [
+        "2HHMJN57",
+        "6VQYNURL",
+        "XR4N3KGF"
+      ],
+      "relations": [],
+      "dateAdded": "2018-01-31T19:17:48Z",
+      "dateModified": "2019-12-18T20:42:35Z",
+      "uri": "http://zotero.org/users/3294059/items/WA6BSQF6",
+      "attachments": [],
+      "notes": [],
+      "itemID": 686,
+      "key": "WA6BSQF6",
+      "citekey": "doyle_automated_2007",
+      "citationKey": "doyle_automated_2007",
+      "libraryID": 1,
+      "publicationTitle": "2007 4th IEEE International Symposium on Biomedical Imaging: From Nano to Macro"
+    },
+    {
+      "version": 3063,
+      "itemType": "conferencePaper",
+      "rights": "All rights reserved",
+      "place": "Arlington, VA",
+      "pages": "1284-1287",
+      "date": "2007-01-01",
+      "DOI": "10.1109/ISBI.2007.357094",
+      "libraryCatalog": "IEEE Xplore",
+      "abstractNote": "The current method of grading prostate cancer on histology uses the Gleason system, which describes five increasingly malignant stages of cancer according to qualitative analysis of tissue architecture. The Gleason grading system has been shown to suffer from inter- and intra-observer variability. In this paper we present a new method for automated and quantitative grading of prostate biopsy specimens. A total of 102 graph-based, morphological, and textural features are extracted from each tissue patch in order to quantify the arrangement of nuclei and glandular structures within digitized images of histological prostate tissue specimens. A support vector machine (SVM) is used to classify the digitized histology slides into one of four different tissue classes: benign epithelium, benign stroma, Gleason grade 3 adenocarcinoma, and Gleason grade 4 adenocarcinoma. The SVM classifier was able to distinguish between all four types of tissue patterns, achieving an accuracy of 92.8% when distinguishing between Gleason grade 3 and stroma, 92.4% between epithelium and stroma, and 76.9% between Gleason grades 3 and 4. Both textural and graph-based features were found to be important in discriminating between different tissue classes. This work suggests that the current Gleason grading scheme can be improved by utilizing quantitative image analysis to aid pathologists in producing an accurate and reproducible diagnosis",
+      "title": "Automated grading of prostate cancer using architectural and textural image features",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mark",
+          "lastName": "Hwang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kinsuk",
+          "lastName": "Shah",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John E",
+          "lastName": "Tomaszeweski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "biopsy"
+        }
+      ],
+      "collections": [
+        "2HHMJN57",
+        "6VQYNURL",
+        "XR4N3KGF",
+        "MFFEZV5N"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-02-19T14:19:40Z",
+      "dateModified": "2019-12-18T20:57:59Z",
+      "uri": "http://zotero.org/users/3294059/items/QN49ACGF",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "IEEE Xplore Abstract Record",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-02-19T14:19:40Z",
+          "dateModified": "2017-02-19T14:19:40Z",
+          "uri": "http://zotero.org/users/3294059/items/HIPUNX7U",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\HIPUNX7U\\4193528.html"
+        },
+        {
+          "itemType": "attachment",
+          "title": "IEEE Xplore Abstract Record",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2018-01-31T19:17:55Z",
+          "dateModified": "2018-05-16T17:53:32Z",
+          "uri": "http://zotero.org/users/3294059/items/V9DY2S7C",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\V9DY2S7C\\4193528.html"
+        },
+        {
+          "itemType": "attachment",
+          "title": "IEEE Xplore Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2018-01-31T19:17:49Z",
+          "dateModified": "2018-05-16T17:53:32Z",
+          "uri": "http://zotero.org/users/3294059/items/Y3WPZCYX",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\Y3WPZCYX\\Doyle et al. - 2007 - AUTOMATED GRADING OF PROSTATE CANCER USING ARCHITE.pdf"
+        }
+      ],
+      "notes": [],
+      "itemID": 687,
+      "key": "QN49ACGF",
+      "citekey": "doyle_automated_2007-1",
+      "citationKey": "doyle_automated_2007-1",
+      "libraryID": 1,
+      "publicationTitle": "2007 IEEE 4th International Symposium on Biomedical Imaging (ISBI)"
+    },
+    {
+      "version": 3055,
+      "itemType": "presentation",
+      "url": "http://experimentalbiology.org/pdfs-docs/2018/EB-2018-Program.aspx",
+      "rights": "All rights reserved",
+      "place": "San Diego, CA, USA",
+      "date": "2018",
+      "meetingName": "Experimental Biology",
+      "abstractNote": "Cadaveric dissection is an important feature in a gross anatomy curriculum for medical practitioners. Currently, no other experience imparts a realistic, tactile understanding of tissues and organs necessary for actual surgical experience. Many students find cadaver dissection to be beneficial. However, cadaveric dissection programs have three major drawbacks: (1) they are expensive, (2) they provide limited exposure to the range of anatomical variation, and (3) they require students to study from textbook atlases as well as the dissection. This is a valuable experience, but can lead to confusion and loss of information when the cadaver does not match textbook anatomy or when structure is destroyed in the dissection process.\nTo address these issues, many schools have looked at replacing physical cadavers with virtual models. Such \"virtual cadavers\" are relatively inexpensive and easier to work with. The best-known example is the Visible Human Project , a publicly available dataset of a male and female cadaver in both annotated, Hi-Res, cross-sectional images & CT scans. Unfortunately, this is a limited dataset, which is not representative of the variation in population. Further, students lose the tactile experience of dissection, which is unique and has long-lasting impacts throughout their medical education.\nTo bridge this gap, the University at Buffalo (UB) is developing a hybrid gross anatomy program which integrates both formats. The program will leverage the Anatomical Gift program at UB, which provides 600-700 cadavers per year to schools across NY state, as well as state-of-the-art imaging facilities at our Clinical Translational Research Center, where cadavers are CT-imaged at Hi-Res. These scans are currently provided to students for dissection prep and review. \nTo develop this program, several challenges must be addressed. Non-contrast (NC) CT images must be processed to generate useable information for gross anatomy students. Registration must be performed to align samples for analysis (F1). Segmentation of structures to obtain virtual models is performed (F2). Finally, analytics must be performed to obtain anatomically relevant, quantitative information pertaining to structures such as probabilistic atlas creation (F3). These sample datasets will require novel automated deep learning methods to generate adequate models & analysis.\nIn terms of education, the hybrid program must develop strategies to marry virtual models and dissection in a way that enhances learning without burdening students. Metrics must be implemented to define criteria for course improvement, success, & attrition. Students with special needs will need to be considered. The distribution format and access of the medical data will need to be assessed.\nThe hybrid gross anatomy program will provide students with the benefits of dissection exposure, medical image utilization & a better understanding of human variation. The program offers exciting opportunities for technological and educational innovation.",
+      "title": "Building a Hybrid Gross Anatomy Curriculum: Integration of Virtual & Cadaveric Models",
+      "creators": [
+        {
+          "firstName": "Steven",
+          "lastName": "Lewis",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Stuart",
+          "lastName": "Inglis",
+          "creatorType": "presenter"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "presenter"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2018-05-07T19:00:41Z",
+      "dateModified": "2019-12-18T20:42:57Z",
+      "uri": "http://zotero.org/users/3294059/items/UDVKCY9M",
+      "attachments": [],
+      "notes": [],
+      "itemID": 691,
+      "key": "UDVKCY9M",
+      "citekey": "lewis_building_2018",
+      "citationKey": "lewis_building_2018",
+      "libraryID": 1,
+      "type": "Poster 505.9.E21 presented at the 2018 Experimental Biology (EB) Meeting"
+    },
+    {
+      "version": 3057,
+      "itemType": "conferencePaper",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10581/1058109/Role-of-training-data-variability-on-classifier-performance-and-generalizability/10.1117/12.2293919.short",
+      "rights": "All rights reserved",
+      "volume": "10581",
+      "publisher": "International Society for Optics and Photonics",
+      "pages": "1058109",
+      "date": "2018",
+      "DOI": "10.1117/12.2293919",
+      "accessDate": "2018-05-07T18:30:14Z",
+      "libraryCatalog": "www.spiedigitallibrary.org",
+      "conferenceName": "Medical Imaging 2018: Digital Pathology",
+      "abstractNote": "Large, high-quality training datasets are necessary for machine learning classifiers to achieve high performance. Due to the high cost of collecting quality annotated data, dataset sizes for medical imaging applications are typically small and collected at a single institution. The use of small, single-site datasets results in classifiers that do not generalize well to data collected at different institutions or under different imaging protocols. Previous attempts to address this problem resulted in development of transfer learning and domain adaptation algorithms. Our work investigates the improvement of generalization performance by increasing training data variability. We use data from multiple sites (one from a local clinic and two from publicly available sets) to train support vector machines (SVMs) and Convolutional Neural Networks (CNNs) to distinguish tissue patches of hematoxylin and eosin (H&amp;E) stained tissue of colorectal cancer (CRC). To measure the effect of increasing training set variability on classifier robustness, we create different training combinations of two datasets for training and validation, and use the third set is reserved for testing. SVM accuracy on the testing dataset ranged from 50% to 59% when training with data from a single site, which increases to 61% when data from both sites was combined in training. Using CNNs, the testing accuracy was 56% and 67% when training on single-site data, which increased to 70% with data from both sites. Thus, the increase in generalization performance exists for both traditional and deep learning algorithms, and is essential for building larger datasets for medical image classification.",
+      "title": "Role of training data variability on classifier performance and generalizability",
+      "creators": [
+        {
+          "firstName": "Ryan",
+          "lastName": "Therrien",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "6VQYNURL",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2018-05-07T18:30:14Z",
+      "dateModified": "2019-12-18T20:44:47Z",
+      "uri": "http://zotero.org/users/3294059/items/CB8RPMLQ",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2018-05-07T18:30:35Z",
+          "dateModified": "2018-05-07T18:30:35Z",
+          "uri": "http://zotero.org/users/3294059/items/VTR9BDRG",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\VTR9BDRG\\Therrien and Doyle - 2018 - Role of training data variability on classifier pe.pdf"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2018-05-07T18:30:37Z",
+          "dateModified": "2018-05-07T18:30:37Z",
+          "uri": "http://zotero.org/users/3294059/items/PMQ63I6Y",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\PMQ63I6Y\\12.2293919.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 692,
+      "key": "CB8RPMLQ",
+      "citekey": "therrien_role_2018",
+      "citationKey": "therrien_role_2018",
+      "libraryID": 1,
+      "publicationTitle": "Medical Imaging 2018: Digital Pathology"
+    },
+    {
+      "version": 3057,
+      "itemType": "conferencePaper",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10581/105810T/Registration-parameter-optimization-for-3D-tissue-modeling-from-resected-tumors/10.1117/12.2293962.short",
+      "rights": "All rights reserved",
+      "volume": "10581",
+      "publisher": "International Society for Optics and Photonics",
+      "pages": "105810T",
+      "date": "2018",
+      "DOI": "10.1117/12.2293962",
+      "accessDate": "2018-05-07T18:29:51Z",
+      "libraryCatalog": "www.spiedigitallibrary.org",
+      "conferenceName": "Medical Imaging 2018: Digital Pathology",
+      "abstractNote": "Patients diagnosed with early stage (Stage I/II) Oral Cavity Cancer (OCC) are typically treated with surgery alone. Unfortunately, 25-37% of early stage OCC patients experience loco-regional tumor recurrence after receiving surgery. Currently, pathologists use the Histologic Risk Model (HRM), a clinically validated risk assessment tool to determine patient prognosis. In this study, we perform image registration on two cases of serially sectioned blocks of Hematoxylin and Eosin (H and E) stained OCC tissue sections. The goal of this work is to create an optimized registration procedure to reconstruct 3D tissue models, which can provide a pathologist with a realistic representation of the tissue architecture before surgical resection. Our project aims to extend the HRM to enhance prediction performance for patients at high risk of disease progression using computational pathology tools. In previous literature, others have explored image registration of histological slides and reconstructing 3D models with similar processes used. Our work is unique in that we are investigating in-depth the parameter space of an image registration algorithm to establish a registration procedure for any serial histological section. Each parameter set was sequentially perturbed to determine the best parameter set for registration, as evaluated through mutual information.",
+      "title": "Registration parameter optimization for 3D tissue modeling from resected tumors cut into serial H&E slides",
+      "creators": [
+        {
+          "firstName": "Starr",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Margaret",
+          "lastName": "Brandwein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2018-05-07T18:29:51Z",
+      "dateModified": "2019-12-18T20:44:41Z",
+      "uri": "http://zotero.org/users/3294059/items/NQGKYV6G",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2018-05-07T18:29:54Z",
+          "dateModified": "2018-05-07T18:29:54Z",
+          "uri": "http://zotero.org/users/3294059/items/4MPW6MP2",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\4MPW6MP2\\Johnson et al. - 2018 - Registration parameter optimization for 3D tissue .pdf"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2018-05-07T18:29:56Z",
+          "dateModified": "2018-05-07T18:29:56Z",
+          "uri": "http://zotero.org/users/3294059/items/SPEG543L",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\SPEG543L\\12.2293962.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 693,
+      "key": "NQGKYV6G",
+      "citekey": "johnson_registration_2018",
+      "citationKey": "johnson_registration_2018",
+      "libraryID": 1,
+      "publicationTitle": "Medical Imaging 2018: Digital Pathology"
+    },
+    {
+      "version": 3050,
+      "itemType": "journalArticle",
+      "rights": "All rights reserved",
+      "volume": "in press",
+      "publicationTitle": "BMC Cancer",
+      "date": "2018",
+      "abstractNote": "Background: Gene-expression companion diagnostic tests, such as the Oncotype\nDX test, assess the risk of early stage Estrogen receptor (ER) positive (+)\nbreast cancers, and guide clinicians in the decision of whether or not to use\nchemotherapy. However, these tests are typically expensive, time consuming, and\ntissue-destructive.\n\nMethods: In this paper, we evaluate the ability of computer-extracted\nnuclear morphology features from routine hematoxylin and eosin (H&E) stained\nimages of 178 early stage ER+ breast cancer patients to predict corresponding\nrisk categories derived using the Oncotype DX test. A total of 216 features\ncorresponding to the nuclear shape and architecture categories from each of the\npathologic images were extracted and four feature selection schemes: Ranksum,\nPrincipal Component Analysis with Variable Importance on Projection (PCA-VIP),\nMaximum-Relevance, Minimum Redundancy Mutual Information Difference (MRMR MID),\nand Maximum-Relevance, Minimum Redundancy - Mutual Information Quotient (MRMR\nMIQ), were employed to identify the most discriminating features. These\nfeatures were employed to train 4 machine learning classifiers: Random Forest,\nNeural Network, Support Vector Machine, and Linear Discriminant Analysis, via\n3-fold cross validation.\n\nResults: The four sets of risk categories, and the top Area Under the\nreceiver operating characteristic Curve (AUC) machine classifier performances\nwere: 1) Low ODx and Low mBR grade vs. High ODx and High mBR grade (Low-Low vs.\nHigh-High) (AUC=0.83), 2) Low ODx vs. High ODx (AUC=0.72), 3) Low ODx vs.\nIntermediate and High ODx (AUC=0.58), and 4) Low and Intermediate ODx vs. High\nODx (AUC=0.65). Trained models were tested independent validation set of 53\ncases which comprised of Low and High ODx risk, and demonstrated per-patient\naccuracies ranging from 75-86%.\n\nConclusion: Our results suggest that computerized image analysis of\ndigitized H&E pathology images of early stage ER+ breast cancer might be able\npredict the corresponding Oncotype DX risk categories.",
+      "title": "Quantitative Nuclear Histomorphometry predicts Oncotype DX risk categories for early stage ER+ Breast Cancer",
+      "creators": [
+        {
+          "firstName": "Jon",
+          "lastName": "Whitney",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "German",
+          "lastName": "Corredor",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andrew",
+          "lastName": "Janowczyk",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shridar",
+          "lastName": "Ganesan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hannah",
+          "lastName": "Gilmore",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2018-05-07T18:24:18Z",
+      "dateModified": "2018-05-07T18:27:06Z",
+      "uri": "http://zotero.org/users/3294059/items/YNG4CAYS",
+      "attachments": [],
+      "notes": [],
+      "itemID": 694,
+      "key": "YNG4CAYS",
+      "citekey": "whitney_quantitative_2018",
+      "citationKey": "whitney_quantitative_2018",
+      "libraryID": 1
+    },
+    {
+      "version": 3055,
+      "itemType": "journalArticle",
+      "url": "http://dx.doi.org/10.1080/21681163.2016.1141063",
+      "rights": "All rights reserved",
+      "volume": "0",
+      "issue": "0",
+      "pages": "1-7",
+      "publicationTitle": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization",
+      "ISSN": "2168-1163",
+      "date": "2016",
+      "DOI": "10.1080/21681163.2016.1141063",
+      "accessDate": "2017-10-30T14:32:00Z",
+      "libraryCatalog": "Taylor and Francis+NEJM",
+      "abstractNote": "Deep learning (DL) has recently been successfully applied to a number of image analysis problems. However, DL approaches tend to be inefficient for segmentation on large image data, such as high-resolution digital pathology slide images. For example, typical breast biopsy images scanned at 40 magnification contain billions of pixels, of which usually only a small percentage belong to the class of interest. For a typical naïve deep learning scheme, parsing through and interrogating all the image pixels would represent hundreds if not thousands of hours of compute time using high performance computing environments. In this paper, we present a resolution adaptive deep hierarchical (RADHicaL) learning scheme wherein DL networks at lower resolutions are leveraged to determine if higher levels of magnification, and thus computation, are necessary to provide precise results. We evaluate our approach on a nuclear segmentation task with a cohort of 141 ER+ breast cancer images and show we can reduce computation time on average by about 85%. Expert annotations of 12,000 nuclei across these 141 images were employed for quantitative evaluation of RADHicaL. A head-to-head comparison with a naïve DL approach, operating solely at the highest magnification, yielded the following performance metrics: .9407 vs .9854 Detection Rate, .8218 vs .8489 F-score, .8061 vs .8364 true positive rate and .8822 vs 0.8932 positive predictive value. Our performance indices compare favourably with state of the art nuclear segmentation approaches for digital pathology images.",
+      "title": "A resolution adaptive deep hierarchical (RADHicaL) learning scheme applied to nuclear segmentation of digital pathology images",
+      "creators": [
+        {
+          "firstName": "Andrew",
+          "lastName": "Janowczyk",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hannah",
+          "lastName": "Gilmore",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "6VQYNURL",
+        "XR4N3KGF"
+      ],
+      "inPublications": true,
+      "relations": [],
+      "dateAdded": "2017-10-30T14:32:00Z",
+      "dateModified": "2019-12-18T20:41:27Z",
+      "uri": "http://zotero.org/users/3294059/items/V4YBZMF3",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2017-10-30T14:32:05Z",
+          "dateModified": "2017-10-30T14:32:06Z",
+          "uri": "http://zotero.org/users/3294059/items/HA6DHJ2F",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\HA6DHJ2F\\21681163.2016.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 818,
+      "key": "V4YBZMF3",
+      "citekey": "janowczyk_resolution_2016",
+      "citationKey": "janowczyk_resolution_2016",
+      "libraryID": 1
+    },
+    {
+      "version": 3059,
+      "itemType": "conferencePaper",
+      "pages": "770-773",
+      "date": "2018-01-01",
+      "extra": "ISSN: 1945-8452",
+      "DOI": "10.1109/ISBI.2018.8363686",
+      "libraryCatalog": "IEEE Xplore",
+      "conferenceName": "2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018)",
+      "abstractNote": "Deep learning has yielded impressive performance on a variety of difficult machine learning tasks due to large, widely available annotated datasets. Unfortunately, acquiring such datasets is difficult in medical imaging. In particular, labels for computational pathology are tedious to create and require expert pathologists. In this work, we explore methods for efficiently training convolutional neural networks (CNNs) for tissue classification using Active Learning (AL) instead of the more common Random Learning (RL). Our dataset consists of 143 digitized images of hematoxylin and eosin-stained whole oral cavity cancer sections. We compare both AL and RL training in the task of using a CNN to identify seven tissue classes (stroma, lymphocytes, tumor, mucosa, keratin pearls, blood, and background / adipose). We find that the AL strategy provides an average 3.26% greater performance than RL for a given training set size.",
+      "title": "Active deep learning: Improved training efficiency of convolutional neural networks for tissue classification in oral cavity cancer",
+      "shortTitle": "Active deep learning",
+      "creators": [
+        {
+          "firstName": "Jonathan",
+          "lastName": "Folmsbee",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xulei",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Margaret",
+          "lastName": "Brandwein-Weber",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "active deep learning",
+          "type": 1
+        },
+        {
+          "tag": "Active Learning",
+          "type": 1
+        },
+        {
+          "tag": "annotated datasets",
+          "type": 1
+        },
+        {
+          "tag": "biological tissues",
+          "type": 1
+        },
+        {
+          "tag": "cancer",
+          "type": 1
+        },
+        {
+          "tag": "Cancer",
+          "type": 1
+        },
+        {
+          "tag": "Cavity resonators",
+          "type": 1
+        },
+        {
+          "tag": "cellular biophysics",
+          "type": 1
+        },
+        {
+          "tag": "computational pathology",
+          "type": 1
+        },
+        {
+          "tag": "convolution",
+          "type": 1
+        },
+        {
+          "tag": "convolutional neural networks",
+          "type": 1
+        },
+        {
+          "tag": "expert pathologists",
+          "type": 1
+        },
+        {
+          "tag": "feedforward neural nets",
+          "type": 1
+        },
+        {
+          "tag": "image classification",
+          "type": 1
+        },
+        {
+          "tag": "Image segmentation",
+          "type": 1
+        },
+        {
+          "tag": "learning (artificial intelligence)",
+          "type": 1
+        },
+        {
+          "tag": "Machine learning",
+          "type": 1
+        },
+        {
+          "tag": "machine learning tasks",
+          "type": 1
+        },
+        {
+          "tag": "medical image processing",
+          "type": 1
+        },
+        {
+          "tag": "medical imaging",
+          "type": 1
+        },
+        {
+          "tag": "oral cavity cancer sections",
+          "type": 1
+        },
+        {
+          "tag": "Pathology",
+          "type": 1
+        },
+        {
+          "tag": "Random Learning",
+          "type": 1
+        },
+        {
+          "tag": "RL training",
+          "type": 1
+        },
+        {
+          "tag": "seven tissue classes",
+          "type": 1
+        },
+        {
+          "tag": "tissue classification",
+          "type": 1
+        },
+        {
+          "tag": "Training",
+          "type": 1
+        },
+        {
+          "tag": "training set size",
+          "type": 1
+        },
+        {
+          "tag": "Tumors",
+          "type": 1
+        },
+        {
+          "tag": "tumours",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "relations": [],
+      "dateAdded": "2019-10-16T20:31:19Z",
+      "dateModified": "2019-12-18T20:48:03Z",
+      "uri": "http://zotero.org/users/3294059/items/QMALTNP4",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Folmsbee et al_2018_Active deep learning.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2019-10-16T20:31:20Z",
+          "dateModified": "2019-10-16T20:31:21Z",
+          "uri": "http://zotero.org/users/3294059/items/VTAEKPC2",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\VTAEKPC2\\Folmsbee et al_2018_Active deep learning.pdf"
+        },
+        {
+          "itemType": "attachment",
+          "title": "IEEE Xplore Abstract Record",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2019-10-16T20:31:28Z",
+          "dateModified": "2019-10-16T20:31:28Z",
+          "uri": "http://zotero.org/users/3294059/items/XN9J63J8",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\XN9J63J8\\8363686.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 5036,
+      "key": "QMALTNP4",
+      "citekey": "folmsbee_active_2018",
+      "citationKey": "folmsbee_active_2018",
+      "libraryID": 1,
+      "publicationTitle": "2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018)"
+    },
+    {
+      "version": 3066,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1186/1471-2105-13-282",
+      "volume": "13",
+      "issue": "1",
+      "pages": "282",
+      "publicationTitle": "BMC Bioinformatics",
+      "ISSN": "1471-2105",
+      "date": "October 30, 2012",
+      "journalAbbreviation": "BMC Bioinformatics",
+      "DOI": "10.1186/1471-2105-13-282",
+      "accessDate": "2019-12-19T16:39:09Z",
+      "libraryCatalog": "BioMed Central",
+      "abstractNote": "Automated classification of histopathology involves identification of multiple classes, including benign, cancerous, and confounder categories. The confounder tissue classes can often mimic and share attributes with both the diseased and normal tissue classes, and can be particularly difficult to identify, both manually and by automated classifiers. In the case of prostate cancer, they may be several confounding tissue types present in a biopsy sample, posing as major sources of diagnostic error for pathologists. Two common multi-class approaches are one-shot classification (OSC), where all classes are identified simultaneously, and one-versus-all (OVA), where a \"target” class is distinguished from all \"non-target” classes. OSC is typically unable to handle discrimination of classes of varying similarity (e.g. with images of prostate atrophy and high grade cancer), while OVA forces several heterogeneous classes into a single \"non-target” class. In this work, we present a cascaded (CAS) approach to classifying prostate biopsy tissue samples, where images from different classes are grouped to maximize intra-group homogeneity while maximizing inter-group heterogeneity.",
+      "title": "Cascaded discrimination of normal, abnormal, and confounder classes in histopathology: Gleason grading of prostate cancer",
+      "shortTitle": "Cascaded discrimination of normal, abnormal, and confounder classes in histopathology",
+      "creators": [
+        {
+          "firstName": "Scott",
+          "lastName": "Doyle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael D.",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Natalie",
+          "lastName": "Shih",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Tomaszewski",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anant",
+          "lastName": "Madabhushi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "XR4N3KGF"
+      ],
+      "relations": [],
+      "dateAdded": "2019-12-19T16:39:09Z",
+      "dateModified": "2019-12-19T16:39:09Z",
+      "uri": "http://zotero.org/users/3294059/items/2FD64QVA",
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Doyle et al_2012_Cascaded discrimination of normal, abnormal, and confounder classes in.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2019-12-19T16:39:20Z",
+          "dateModified": "2019-12-19T16:39:22Z",
+          "uri": "http://zotero.org/users/3294059/items/HUDADXPH",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\HUDADXPH\\Doyle et al_2012_Cascaded discrimination of normal, abnormal, and confounder classes in.pdf"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2019-12-19T16:39:17Z",
+          "dateModified": "2019-12-19T16:39:17Z",
+          "uri": "http://zotero.org/users/3294059/items/4IDJGLNZ",
+          "path": "C:\\Users\\scott\\Zotero\\storage\\4IDJGLNZ\\1471-2105-13-282.html"
+        }
+      ],
+      "notes": [],
+      "itemID": 5575,
+      "key": "2FD64QVA",
+      "citekey": "doyle_cascaded_2012-1",
+      "citationKey": "doyle_cascaded_2012-1",
+      "libraryID": 1
+    }
+  ]
+}
