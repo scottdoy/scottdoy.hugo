@@ -4,3 +4,6 @@ static/css/syntax-min.css
 
 # Disable MS Office files by default
 *.docx
+
+# Disable vscode folder
+.vscode
