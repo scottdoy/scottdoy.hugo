@@ -9,7 +9,7 @@ all: deploy
 server: compress citations
 	hugo server -ws . --buildDrafts 
 
-deploy: compress site
+deploy: compress citations site
 	echo "The site has been rebuilt."
 	echo "Ensure your changes have been committed to the source repo."
 	echo "To push the compiled site public:"
