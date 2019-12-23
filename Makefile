@@ -6,7 +6,7 @@
 
 all: deploy
 
-server: compress css citations
+server: compress citations
 	hugo server -ws . --buildDrafts 
 
 deploy: compress site
@@ -29,7 +29,11 @@ site: css
 
 css:
 	del static\\css\\stylesheet.css
-	type static\\css\\kube.css,static\\css\\syntax.css,static\\css\\bigfoot-default.css,static\\css\\scottdoy.css > static\\css\\stylesheet.css
+	type static\\css\\kube.css, \
+	    static\\css\\nightowl-pygments-v0.0.1.css, \
+		static\\css\\bigfoot-default.css, \
+		static\\css\\scottdoy.css \
+		> static\\css\\stylesheet.css
 
 clean:
 
