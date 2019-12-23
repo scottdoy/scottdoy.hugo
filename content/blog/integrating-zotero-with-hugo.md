@@ -1,7 +1,7 @@
 ---
 title: "Integrating Zotero With Hugo"
 date: 2019-12-18T10:53:34-05:00
-draft: true
+draft: false
 categories: [webdev,citations]
 footnotes: false
 htmlwidgets: false
