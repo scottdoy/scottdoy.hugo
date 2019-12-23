@@ -9,12 +9,24 @@ baseurl = ""
 title = "scottdoy.com"
 CanonifyUrls = true
 rssLimit = 20.0
+enableEmoji = true
 
+[markup]
+  [markup.highlight]
+    codeFences = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "solarized-dark"
+    tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe= true
+
+    
 [taxonomy]
 category = "categories"
-
-[markup.goldmark.renderer]
-unsafe= true
 
 [menu]
 
